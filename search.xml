@@ -1,97 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>公告/通知/重要消息</title>
-    <url>/posts/101815ea/</url>
-    <content><![CDATA[<p>这里是公告；宣布一些很重要的东西或者一些不那么重要的东西</p>
-<p>本站密码一般为0t63</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>一些无需客户端登陆不限速的网盘</title>
-    <url>/posts/cd15b038/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在我们日常生活里不可避免会需要传一些文件什么的<br>但是百度网盘等太过于臃肿，亦或者单纯不想下载，或者是在外面不方便等原因…<br>毕竟限速其实是挺恶心的，所以我在这里挂几个<strong>无需 登录</strong>，<strong>无需 客户端</strong>的网盘</p>
- <span id="more"></span>
-
-<hr>
-<h1 id="网盘"><a href="#网盘" class="headerlink" title="网盘"></a>网盘</h1><h2 id="1-文叔叔-传文件，找文叔叔（大文件、永不限速）"><a href="#1-文叔叔-传文件，找文叔叔（大文件、永不限速）" class="headerlink" title="1. 文叔叔 - 传文件，找文叔叔（大文件、永不限速）"></a>1. 文叔叔 - 传文件，找文叔叔（大文件、永不限速）</h2><p>官网<a href="wenshushu.cn">wenshushu.cn</a></p>
-<p>文叔叔是一个简单快速的文件分享网盘，无需注册登陆，一键分享&#x2F;下载文件，而且号称“<strong>永不限速</strong>”。<br><img src="https://s2.loli.net/2024/10/29/9uBA7yUvkfa1QYm.png" alt="wenshushu_01.png"></p>
-<p>可以通过链接、二维码、取件码分享&#x2F;获取文件，支持<strong>上传整个文件夹</strong>而无需压缩打包，设置访问密码、到期自动销毁等。</p>
-<ul>
-<li>上传、下载不限速</li>
-<li>单文件最大 5GB</li>
-<li>免费空间 40GB</li>
-<li>批量传文件、文件夹</li>
-<li>所有数据加密传输，同步永久销毁</li>
-<li>支持移动客户端和微信小程序</li>
-</ul>
-<h2 id="2-AirPortal-空投快传"><a href="#2-AirPortal-空投快传" class="headerlink" title="2. AirPortal 空投快传"></a>2. AirPortal 空投快传</h2><p>官网：<a href="airportal.cn">airportal.cn</a></p>
-<p>AirPortal 是一个简单快速的临时文件分享传输工具，发送和接收文件都很方便，而且支持 Win、Mac、Linux、安卓和 iOS 客户端。</p>
-<p><img src="https://s2.loli.net/2024/10/29/Eaq8Cwt1rfbRSuy.png" alt="airportal.png"></p>
-<p>可以分享文本、文件和文件夹，<strong>Wi-Fi 快传</strong>能够让同 WiFi 下设备无网络快速传输文件，非常不错。</p>
-<ul>
-<li>未登录最大上传 1GB，普通用户 5GB</li>
-<li>普通用户文件最多可保留 24h、下载 10 次</li>
-<li>设置密码保护、下载次数、保存时长</li>
-<li>支持取件码、分享链接和二维码下载</li>
-</ul>
-<p>AirPortal 的功能和体验都很不错，虽然可以免登陆使用，但功能有限制，长期使用可以注册一个账户，更方便。</p>
-<h2 id="3-Send-Anywhere"><a href="#3-Send-Anywhere" class="headerlink" title="3. Send Anywhere"></a>3. Send Anywhere</h2><p>官网：<a href="send-anywhere.com">send-anywhere.com</a></p>
-<p>Send Anywhere 是一款非常知名的跨平台文件传输工具，2012 年推出至今已经运营 10 年时间。</p>
-<p>可以通过密匙、二维码、链接、邮件分享和下载文件。<strong>而且使用密匙传输时直接在两台设备间传输文件，不会存储在服务器上</strong>，更安全可靠。</p>
-<p><img src="https://s2.loli.net/2024/10/29/i7onSFP2kQdDmlg.png" alt="Sendanywhere.png"></p>
-<p>有 Win、Mac、Linux、安卓、iOS、网页版和浏览器扩展等设备支持极全</p>
-<ul>
-<li>密匙和二维码 10 分钟内有效，链接 48h 有效</li>
-<li>普通用户 10GB 服务器空间（分享链接）</li>
-<li>支持点对点无限制传输</li>
-<li>Wi-Fi 直连传输</li>
-<li>最全的平台客户端支持</li>
-</ul>
-<h2 id="5-Wormhole-简单、私密的文件共享"><a href="#5-Wormhole-简单、私密的文件共享" class="headerlink" title="5. Wormhole - 简单、私密的文件共享"></a>5. Wormhole - 简单、私密的文件共享</h2><p>官网：<a href="wormhole.app">wormhole.app</a></p>
-<p>Wormhole 是一个简单私密的文件分享网站，支持<strong>端到端加密</strong>传输文件。</p>
-<p><img src="https://s2.loli.net/2024/10/29/wH57bmr6gRqM4OY.png" alt="wormhole.png"></p>
-<p>5GB 以下的文件，会在服务器上存储 24 小时；大于 5GB 的文件，通过点对点传输，直接发送给接收者，需要保持页面打开直到传输完毕。</p>
-<ul>
-<li>点对点加密传输</li>
-<li>最大 10GB 文件分享</li>
-<li>通过分享链接、二维码下载文件</li>
-<li>免下载预览图像、音频和视频</li>
-<li>设置过期时间和下载次数</li>
-<li>手动删除文件</li>
-</ul>
-<hr>
-<p> 以后可能会用这些网盘，毕竟不能只用度盘，也可能会用OneDrive等国外知名网盘<br> 待定，以后这篇博客会删减与更新</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-        <category>Windows</category>
-        <category>Mac</category>
-        <category>Android</category>
-      </categories>
-      <tags>
-        <tag>网盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>雪莉尔的大冒险全cg存档</title>
-    <url>/posts/dda5a281/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/10/24/Yv9roSZAK5FU8uL.png" alt="雪莉尔的大冒险01.png"></p>
-<p>雪莉尔的大冒险全cg存档，这游戏怎么说呢，像素cg还不错，就是动态一般般，挂个链接，发出来给自己存着，自用,游戏自己找</p>
-<span id="more"></span>
-
-<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p><a href="https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42">https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42</a></p>
-]]></content>
-      <categories>
-        <category>Windows</category>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>RPG</tag>
-        <tag>18R</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>梦日记_3d/yumenikki_3d</title>
     <url>/posts/58e3fa0c/</url>
     <content><![CDATA[<p><img src="https://yumenikki.info/blog/wp-content/uploads/2014/07/18055_1.jpg"><br>因为看到国内yumenikki中文网的链接已经炸了，所以自己补个档</p>
@@ -178,6 +87,106 @@
         <tag>致郁</tag>
         <tag>泣</tag>
         <tag>2016</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公告/通知/重要消息</title>
+    <url>/posts/101815ea/</url>
+    <content><![CDATA[<p>这里是公告；宣布一些很重要的东西或者一些不那么重要的东西</p>
+<p>这个网站平时会发表一些学习日志&#x2F;H游戏更新&#x2F;随笔等等<br>本站密码一般为0t63</p>
+<h1 id="Site"><a href="#Site" class="headerlink" title="Site"></a>Site</h1><p>title: Hexo # 网站标题<br>subtitle: # 网站副标题<br>description: # 网站描述<br>author: John Doe # 作者<br>language: # 语言<br>timezone: # 网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America&#x2F;New_York, Japan, 和 UTC 。</p>
+<h1 id="URL"><a href="#URL" class="headerlink" title="URL"></a>URL</h1><h2 id="If-your-site-is-put-in-a-subdirectory-set-url-as-‘http-yoursite-com-child‘"><a href="#If-your-site-is-put-in-a-subdirectory-set-url-as-‘http-yoursite-com-child‘" class="headerlink" title="If your site is put in a subdirectory, set url as ‘http://yoursite.com/child‘"></a>If your site is put in a subdirectory, set url as ‘<a href="http://yoursite.com/child">http://yoursite.com/child</a>‘</h2><h2 id="and-root-as-‘-child-‘"><a href="#and-root-as-‘-child-‘" class="headerlink" title="and root as ‘&#x2F;child&#x2F;‘"></a>and root as ‘&#x2F;child&#x2F;‘</h2><p>url: <a href="http://yoursite.com/">http://yoursite.com</a> # 你的站点Url<br>root: &#x2F; # 站点的根目录<br>permalink: :year&#x2F;:month&#x2F;:day&#x2F;:title&#x2F; # 文章的 永久链接 格式<br>permalink_defaults: # 永久链接中各部分的默认值</p>
+<h1 id="Directory"><a href="#Directory" class="headerlink" title="Directory"></a>Directory</h1><p>source_dir: source # 资源文件夹，这个文件夹用来存放内容<br>public_dir: public # 公共文件夹，这个文件夹用于存放生成的站点文件。<br>tag_dir: tags # 标签文件夹<br>archive_dir: archives # 归档文件夹<br>category_dir: categories # 分类文件夹<br>code_dir: downloads&#x2F;code # Include code 文件夹<br>i18n_dir: :lang # 国际化（i18n）文件夹<br>skip_render: # 跳过指定文件的渲染，您可使用 glob 表达式来匹配路径。</p>
+<h1 id="Writing"><a href="#Writing" class="headerlink" title="Writing"></a>Writing</h1><p>new_post_name: :title.md # 新文章的文件名称<br>default_layout: post # 预设布局<br>titlecase: false # 把标题转换为 title case<br>external_link: true # 在新标签中打开链接<br>filename_case: 0 # 把文件名称转换为 (1) 小写或 (2) 大写<br>render_drafts: false # 是否显示草稿<br>post_asset_folder: false # 是否启动 Asset 文件夹<br>relative_link: false # 把链接改为与根目录的相对位址<br>future: true # 显示未来的文章<br>highlight: # 内容中代码块的设置<br>  enable: true # 开启代码块高亮<br>  line_number: true # 显示行数<br>  auto_detect: false # 如果未指定语言，则启用自动检测<br>  tab_replace: # 用 n 个空格替换 tabs；如果值为空，则不会替换 tabs</p>
+<h1 id="Category-Tag"><a href="#Category-Tag" class="headerlink" title="Category &amp; Tag"></a>Category &amp; Tag</h1><p>default_category: uncategorized<br>category_map: # 分类别名<br>tag_map: # 标签别名</p>
+<h1 id="Date-Time-format"><a href="#Date-Time-format" class="headerlink" title="Date &#x2F; Time format"></a>Date &#x2F; Time format</h1><h2 id="Hexo-uses-Moment-js-to-parse-and-display-date"><a href="#Hexo-uses-Moment-js-to-parse-and-display-date" class="headerlink" title="Hexo uses Moment.js to parse and display date"></a>Hexo uses Moment.js to parse and display date</h2><h2 id="You-can-customize-the-date-format-as-defined-in"><a href="#You-can-customize-the-date-format-as-defined-in" class="headerlink" title="You can customize the date format as defined in"></a>You can customize the date format as defined in</h2><h2 id="http-momentjs-com-docs-displaying-format"><a href="#http-momentjs-com-docs-displaying-format" class="headerlink" title="http://momentjs.com/docs/#/displaying/format/"></a><a href="http://momentjs.com/docs/#/displaying/format/">http://momentjs.com/docs/#/displaying/format/</a></h2><p>date_format: YYYY-MM-DD # 日期格式<br>time_format: HH:mm:ss # 时间格式</p>
+<h1 id="Pagination"><a href="#Pagination" class="headerlink" title="Pagination"></a>Pagination</h1><h2 id="Set-per-page-to-0-to-disable-pagination"><a href="#Set-per-page-to-0-to-disable-pagination" class="headerlink" title="Set per_page to 0 to disable pagination"></a>Set per_page to 0 to disable pagination</h2><p>per_page: 10 # 分页数量<br>pagination_dir: page # 分页目录</p>
+<h1 id="Extensions"><a href="#Extensions" class="headerlink" title="Extensions"></a>Extensions</h1><h2 id="Plugins-https-hexo-io-plugins"><a href="#Plugins-https-hexo-io-plugins" class="headerlink" title="Plugins: https://hexo.io/plugins/"></a>Plugins: <a href="https://hexo.io/plugins/">https://hexo.io/plugins/</a></h2><h2 id="Themes-https-hexo-io-themes"><a href="#Themes-https-hexo-io-themes" class="headerlink" title="Themes: https://hexo.io/themes/"></a>Themes: <a href="https://hexo.io/themes/">https://hexo.io/themes/</a></h2><p>theme: landscape # 主题名称</p>
+<h1 id="Deployment"><a href="#Deployment" class="headerlink" title="Deployment"></a>Deployment</h1><h2 id="Docs-https-hexo-io-docs-deployment-html"><a href="#Docs-https-hexo-io-docs-deployment-html" class="headerlink" title="Docs: https://hexo.io/docs/deployment.html"></a>Docs: <a href="https://hexo.io/docs/deployment.html">https://hexo.io/docs/deployment.html</a></h2><h1 id="部署部分的设置"><a href="#部署部分的设置" class="headerlink" title="部署部分的设置"></a>部署部分的设置</h1><p>deploy:<br>  type: # 类型，常用的git</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>一些无需客户端登陆不限速的网盘</title>
+    <url>/posts/cd15b038/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在我们日常生活里不可避免会需要传一些文件什么的<br>但是百度网盘等太过于臃肿，亦或者单纯不想下载，或者是在外面不方便等原因…<br>毕竟限速其实是挺恶心的，所以我在这里挂几个<strong>无需 登录</strong>，<strong>无需 客户端</strong>的网盘</p>
+ <span id="more"></span>
+
+<hr>
+<h1 id="网盘"><a href="#网盘" class="headerlink" title="网盘"></a>网盘</h1><h2 id="1-文叔叔-传文件，找文叔叔（大文件、永不限速）"><a href="#1-文叔叔-传文件，找文叔叔（大文件、永不限速）" class="headerlink" title="1. 文叔叔 - 传文件，找文叔叔（大文件、永不限速）"></a>1. 文叔叔 - 传文件，找文叔叔（大文件、永不限速）</h2><p>官网<a href="wenshushu.cn">wenshushu.cn</a></p>
+<p>文叔叔是一个简单快速的文件分享网盘，无需注册登陆，一键分享&#x2F;下载文件，而且号称“<strong>永不限速</strong>”。<br><img src="https://s2.loli.net/2024/10/29/9uBA7yUvkfa1QYm.png" alt="wenshushu_01.png"></p>
+<p>可以通过链接、二维码、取件码分享&#x2F;获取文件，支持<strong>上传整个文件夹</strong>而无需压缩打包，设置访问密码、到期自动销毁等。</p>
+<ul>
+<li>上传、下载不限速</li>
+<li>单文件最大 5GB</li>
+<li>免费空间 40GB</li>
+<li>批量传文件、文件夹</li>
+<li>所有数据加密传输，同步永久销毁</li>
+<li>支持移动客户端和微信小程序</li>
+</ul>
+<h2 id="2-AirPortal-空投快传"><a href="#2-AirPortal-空投快传" class="headerlink" title="2. AirPortal 空投快传"></a>2. AirPortal 空投快传</h2><p>官网：<a href="airportal.cn">airportal.cn</a></p>
+<p>AirPortal 是一个简单快速的临时文件分享传输工具，发送和接收文件都很方便，而且支持 Win、Mac、Linux、安卓和 iOS 客户端。</p>
+<p><img src="https://s2.loli.net/2024/10/29/Eaq8Cwt1rfbRSuy.png" alt="airportal.png"></p>
+<p>可以分享文本、文件和文件夹，<strong>Wi-Fi 快传</strong>能够让同 WiFi 下设备无网络快速传输文件，非常不错。</p>
+<ul>
+<li>未登录最大上传 1GB，普通用户 5GB</li>
+<li>普通用户文件最多可保留 24h、下载 10 次</li>
+<li>设置密码保护、下载次数、保存时长</li>
+<li>支持取件码、分享链接和二维码下载</li>
+</ul>
+<p>AirPortal 的功能和体验都很不错，虽然可以免登陆使用，但功能有限制，长期使用可以注册一个账户，更方便。</p>
+<h2 id="3-Send-Anywhere"><a href="#3-Send-Anywhere" class="headerlink" title="3. Send Anywhere"></a>3. Send Anywhere</h2><p>官网：<a href="send-anywhere.com">send-anywhere.com</a></p>
+<p>Send Anywhere 是一款非常知名的跨平台文件传输工具，2012 年推出至今已经运营 10 年时间。</p>
+<p>可以通过密匙、二维码、链接、邮件分享和下载文件。<strong>而且使用密匙传输时直接在两台设备间传输文件，不会存储在服务器上</strong>，更安全可靠。</p>
+<p><img src="https://s2.loli.net/2024/10/29/i7onSFP2kQdDmlg.png" alt="Sendanywhere.png"></p>
+<p>有 Win、Mac、Linux、安卓、iOS、网页版和浏览器扩展等设备支持极全</p>
+<ul>
+<li>密匙和二维码 10 分钟内有效，链接 48h 有效</li>
+<li>普通用户 10GB 服务器空间（分享链接）</li>
+<li>支持点对点无限制传输</li>
+<li>Wi-Fi 直连传输</li>
+<li>最全的平台客户端支持</li>
+</ul>
+<h2 id="5-Wormhole-简单、私密的文件共享"><a href="#5-Wormhole-简单、私密的文件共享" class="headerlink" title="5. Wormhole - 简单、私密的文件共享"></a>5. Wormhole - 简单、私密的文件共享</h2><p>官网：<a href="wormhole.app">wormhole.app</a></p>
+<p>Wormhole 是一个简单私密的文件分享网站，支持<strong>端到端加密</strong>传输文件。</p>
+<p><img src="https://s2.loli.net/2024/10/29/wH57bmr6gRqM4OY.png" alt="wormhole.png"></p>
+<p>5GB 以下的文件，会在服务器上存储 24 小时；大于 5GB 的文件，通过点对点传输，直接发送给接收者，需要保持页面打开直到传输完毕。</p>
+<ul>
+<li>点对点加密传输</li>
+<li>最大 10GB 文件分享</li>
+<li>通过分享链接、二维码下载文件</li>
+<li>免下载预览图像、音频和视频</li>
+<li>设置过期时间和下载次数</li>
+<li>手动删除文件</li>
+</ul>
+<hr>
+<p> 以后可能会用这些网盘，毕竟不能只用度盘，也可能会用OneDrive等国外知名网盘<br> 待定，以后这篇博客会删减与更新</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+        <category>Windows</category>
+        <category>Mac</category>
+        <category>Android</category>
+      </categories>
+      <tags>
+        <tag>网盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>雪莉尔的大冒险全cg存档</title>
+    <url>/posts/dda5a281/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/10/24/Yv9roSZAK5FU8uL.png" alt="雪莉尔的大冒险01.png"></p>
+<p>雪莉尔的大冒险全cg存档，这游戏怎么说呢，像素cg还不错，就是动态一般般，挂个链接，发出来给自己存着，自用,游戏自己找</p>
+<span id="more"></span>
+
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p><a href="https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42">https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42</a></p>
+]]></content>
+      <categories>
+        <category>Windows</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>RPG</tag>
+        <tag>18R</tag>
       </tags>
   </entry>
 </search>
