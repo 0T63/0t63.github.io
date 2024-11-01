@@ -17,26 +17,16 @@
 <h2 id="Pagination"><a href="#Pagination" class="headerlink" title="Pagination"></a>Pagination</h2><h3 id="Set-per-page-to-0-to-disable-pagination"><a href="#Set-per-page-to-0-to-disable-pagination" class="headerlink" title="Set per_page to 0 to disable pagination"></a>Set per_page to 0 to disable pagination</h3><p>per_page: 10 # 分页数量<br>pagination_dir: page # 分页目录</p>
 <h2 id="Extensions"><a href="#Extensions" class="headerlink" title="Extensions"></a>Extensions</h2><h3 id="Plugins-https-hexo-io-plugins"><a href="#Plugins-https-hexo-io-plugins" class="headerlink" title="Plugins: https://hexo.io/plugins/"></a>Plugins: <a href="https://hexo.io/plugins/">https://hexo.io/plugins/</a></h3><h3 id="Themes-https-hexo-io-themes"><a href="#Themes-https-hexo-io-themes" class="headerlink" title="Themes: https://hexo.io/themes/"></a>Themes: <a href="https://hexo.io/themes/">https://hexo.io/themes/</a></h3><p>theme: landscape # 主题名称</p>
 <h2 id="Deployment"><a href="#Deployment" class="headerlink" title="Deployment"></a>Deployment</h2><h3 id="Docs-https-hexo-io-docs-deployment-html"><a href="#Docs-https-hexo-io-docs-deployment-html" class="headerlink" title="Docs: https://hexo.io/docs/deployment.html"></a>Docs: <a href="https://hexo.io/docs/deployment.html">https://hexo.io/docs/deployment.html</a></h3><h2 id="部署部分的设置"><a href="#部署部分的设置" class="headerlink" title="部署部分的设置"></a>部署部分的设置</h2><p>deploy:<br>  type: # 类型，常用的git</p>
-<h2 id="日志"><a href="#日志" class="headerlink" title="日志"></a>日志</h2><p>2024年10月31日<br>增加了友链页面</p>
+<h2 id="日志"><a href="#日志" class="headerlink" title="日志"></a>日志</h2><p>2024年10月31日</p>
+<ul>
+<li>增加了友链页面</li>
+</ul>
+<p>2024年11月1日</p>
+<ul>
+<li>更换了看板娘形式</li>
+<li>添加了点击特效</li>
+</ul>
 ]]></content>
-  </entry>
-  <entry>
-    <title>雪莉尔的大冒险全cg存档</title>
-    <url>/posts/dda5a281/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/10/24/Yv9roSZAK5FU8uL.png" alt="雪莉尔的大冒险01.png"></p>
-<p>雪莉尔的大冒险全cg存档，这游戏怎么说呢，像素cg还不错，就是动态一般般，挂个链接，发出来给自己存着，自用,游戏自己找</p>
-<span id="more"></span>
-
-<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p><a href="https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42">https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42</a></p>
-]]></content>
-      <categories>
-        <category>Windows</category>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>RPG</tag>
-        <tag>18R</tag>
-      </tags>
   </entry>
   <entry>
     <title>一些无需客户端登陆不限速的网盘</title>
@@ -102,6 +92,24 @@
       </categories>
       <tags>
         <tag>网盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>雪莉尔的大冒险全cg存档</title>
+    <url>/posts/dda5a281/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/10/24/Yv9roSZAK5FU8uL.png" alt="雪莉尔的大冒险01.png"></p>
+<p>雪莉尔的大冒险全cg存档，这游戏怎么说呢，像素cg还不错，就是动态一般般，挂个链接，发出来给自己存着，自用,游戏自己找</p>
+<span id="more"></span>
+
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p><a href="https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42">https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42</a></p>
+]]></content>
+      <categories>
+        <category>Windows</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>RPG</tag>
+        <tag>18R</tag>
       </tags>
   </entry>
   <entry>
