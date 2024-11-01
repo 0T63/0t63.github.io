@@ -7,26 +7,60 @@
 <p>这个网站平时会发表一些学习日志&#x2F;H游戏更新&#x2F;随笔等等<br>本站密码一般为0t63</p>
 <span id="more"></span>
 
+]]></content>
+  </entry>
+  <entry>
+    <title>博客开发日记</title>
+    <url>/posts/b0dd65bb/</url>
+    <content><![CDATA[<p>顾名思义</p>
+<span id="more"></span>
 
-<h1 id="博客开发笔记"><a href="#博客开发笔记" class="headerlink" title="博客开发笔记"></a>博客开发笔记</h1><h2 id="Site"><a href="#Site" class="headerlink" title="Site"></a>Site</h2><p>title: Hexo # 网站标题<br>subtitle: # 网站副标题<br>description: # 网站描述<br>author: John Doe # 作者<br>language: # 语言<br>timezone: # 网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America&#x2F;New_York, Japan, 和 UTC 。</p>
-<h2 id="URL"><a href="#URL" class="headerlink" title="URL"></a>URL</h2><h3 id="If-your-site-is-put-in-a-subdirectory-set-url-as-‘http-yoursite-com-child‘"><a href="#If-your-site-is-put-in-a-subdirectory-set-url-as-‘http-yoursite-com-child‘" class="headerlink" title="If your site is put in a subdirectory, set url as ‘http://yoursite.com/child‘"></a>If your site is put in a subdirectory, set url as ‘<a href="http://yoursite.com/child">http://yoursite.com/child</a>‘</h3><h3 id="and-root-as-‘-child-‘"><a href="#and-root-as-‘-child-‘" class="headerlink" title="and root as ‘&#x2F;child&#x2F;‘"></a>and root as ‘&#x2F;child&#x2F;‘</h3><p>url: <a href="http://yoursite.com/">http://yoursite.com</a> # 你的站点Url<br>root: &#x2F; # 站点的根目录<br>permalink: :year&#x2F;:month&#x2F;:day&#x2F;:title&#x2F; # 文章的 永久链接 格式<br>permalink_defaults: # 永久链接中各部分的默认值</p>
-<h2 id="Directory"><a href="#Directory" class="headerlink" title="Directory"></a>Directory</h2><p>source_dir: source # 资源文件夹，这个文件夹用来存放内容<br>public_dir: public # 公共文件夹，这个文件夹用于存放生成的站点文件。<br>tag_dir: tags # 标签文件夹<br>archive_dir: archives # 归档文件夹<br>category_dir: categories # 分类文件夹<br>code_dir: downloads&#x2F;code # Include code 文件夹<br>i18n_dir: :lang # 国际化（i18n）文件夹<br>skip_render: # 跳过指定文件的渲染，您可使用 glob 表达式来匹配路径。</p>
-<h2 id="Writing"><a href="#Writing" class="headerlink" title="Writing"></a>Writing</h2><p>new_post_name: :title.md # 新文章的文件名称<br>default_layout: post # 预设布局<br>titlecase: false # 把标题转换为 title case<br>external_link: true # 在新标签中打开链接<br>filename_case: 0 # 把文件名称转换为 (1) 小写或 (2) 大写<br>render_drafts: false # 是否显示草稿<br>post_asset_folder: false # 是否启动 Asset 文件夹<br>relative_link: false # 把链接改为与根目录的相对位址<br>future: true # 显示未来的文章<br>highlight: # 内容中代码块的设置<br>  enable: true # 开启代码块高亮<br>  line_number: true # 显示行数<br>  auto_detect: false # 如果未指定语言，则启用自动检测<br>  tab_replace: # 用 n 个空格替换 tabs；如果值为空，则不会替换 tabs</p>
-<h2 id="Category-Tag"><a href="#Category-Tag" class="headerlink" title="Category &amp; Tag"></a>Category &amp; Tag</h2><p>default_category: uncategorized<br>category_map: # 分类别名<br>tag_map: # 标签别名</p>
-<h2 id="Date-Time-format"><a href="#Date-Time-format" class="headerlink" title="Date &#x2F; Time format"></a>Date &#x2F; Time format</h2><h3 id="Hexo-uses-Moment-js-to-parse-and-display-date"><a href="#Hexo-uses-Moment-js-to-parse-and-display-date" class="headerlink" title="Hexo uses Moment.js to parse and display date"></a>Hexo uses Moment.js to parse and display date</h3><h3 id="You-can-customize-the-date-format-as-defined-in"><a href="#You-can-customize-the-date-format-as-defined-in" class="headerlink" title="You can customize the date format as defined in"></a>You can customize the date format as defined in</h3><h3 id="http-momentjs-com-docs-displaying-format"><a href="#http-momentjs-com-docs-displaying-format" class="headerlink" title="http://momentjs.com/docs/#/displaying/format/"></a><a href="http://momentjs.com/docs/#/displaying/format/">http://momentjs.com/docs/#/displaying/format/</a></h3><p>date_format: YYYY-MM-DD # 日期格式<br>time_format: HH:mm:ss # 时间格式</p>
-<h2 id="Pagination"><a href="#Pagination" class="headerlink" title="Pagination"></a>Pagination</h2><h3 id="Set-per-page-to-0-to-disable-pagination"><a href="#Set-per-page-to-0-to-disable-pagination" class="headerlink" title="Set per_page to 0 to disable pagination"></a>Set per_page to 0 to disable pagination</h3><p>per_page: 10 # 分页数量<br>pagination_dir: page # 分页目录</p>
-<h2 id="Extensions"><a href="#Extensions" class="headerlink" title="Extensions"></a>Extensions</h2><h3 id="Plugins-https-hexo-io-plugins"><a href="#Plugins-https-hexo-io-plugins" class="headerlink" title="Plugins: https://hexo.io/plugins/"></a>Plugins: <a href="https://hexo.io/plugins/">https://hexo.io/plugins/</a></h3><h3 id="Themes-https-hexo-io-themes"><a href="#Themes-https-hexo-io-themes" class="headerlink" title="Themes: https://hexo.io/themes/"></a>Themes: <a href="https://hexo.io/themes/">https://hexo.io/themes/</a></h3><p>theme: landscape # 主题名称</p>
-<h2 id="Deployment"><a href="#Deployment" class="headerlink" title="Deployment"></a>Deployment</h2><h3 id="Docs-https-hexo-io-docs-deployment-html"><a href="#Docs-https-hexo-io-docs-deployment-html" class="headerlink" title="Docs: https://hexo.io/docs/deployment.html"></a>Docs: <a href="https://hexo.io/docs/deployment.html">https://hexo.io/docs/deployment.html</a></h3><h2 id="部署部分的设置"><a href="#部署部分的设置" class="headerlink" title="部署部分的设置"></a>部署部分的设置</h2><p>deploy:<br>  type: # 类型，常用的git</p>
 <h2 id="日志"><a href="#日志" class="headerlink" title="日志"></a>日志</h2><p>2024年10月31日</p>
 <ul>
 <li>增加了友链页面</li>
 </ul>
 <p>2024年11月1日</p>
 <ul>
+<li>增加了离开标签页标题自动变化</li>
 <li>更换了看板娘形式</li>
 <li>添加了点击特效</li>
 </ul>
+<h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><p><a href="https://zeyulong.com/posts/3edad46f/">Hexo博客美化 - 龙泽雨的博客</a></p>
+<p><a href="https://cloud.tencent.com/developer/article/2063776">给网站增加离开页面改变网站标题效果</a></p>
+<h2 id="杂"><a href="#杂" class="headerlink" title="杂"></a>杂</h2><pre><code>&#123;% if theme.fireworks %&#125;
+   <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas> 
+   <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
+   <script type="text/javascript" src="/js/fireworks.js"></script>
+&#123;% endif %&#125;
+
+```点击特效
+</code></pre>
 ]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>日志</tag>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>雪莉尔的大冒险全cg存档</title>
+    <url>/posts/dda5a281/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/10/24/Yv9roSZAK5FU8uL.png" alt="雪莉尔的大冒险01.png"></p>
+<p>雪莉尔的大冒险全cg存档，这游戏怎么说呢，像素cg还不错，就是动态一般般，挂个链接，发出来给自己存着，自用,游戏自己找</p>
+<span id="more"></span>
+
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p><a href="https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42">https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42</a></p>
+]]></content>
+      <categories>
+        <category>Windows</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>RPG</tag>
+        <tag>18R</tag>
+      </tags>
   </entry>
   <entry>
     <title>一些无需客户端登陆不限速的网盘</title>
@@ -92,24 +126,6 @@
       </categories>
       <tags>
         <tag>网盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>雪莉尔的大冒险全cg存档</title>
-    <url>/posts/dda5a281/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/10/24/Yv9roSZAK5FU8uL.png" alt="雪莉尔的大冒险01.png"></p>
-<p>雪莉尔的大冒险全cg存档，这游戏怎么说呢，像素cg还不错，就是动态一般般，挂个链接，发出来给自己存着，自用,游戏自己找</p>
-<span id="more"></span>
-
-<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p><a href="https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42">https://pan.baidu.com/s/1jOelxkHrKQmv34yRbhDzFw?pwd=ze42</a></p>
-]]></content>
-      <categories>
-        <category>Windows</category>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>RPG</tag>
-        <tag>18R</tag>
       </tags>
   </entry>
   <entry>
