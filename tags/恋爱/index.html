@@ -75,6 +75,12 @@
 </noscript>
 
 <!-- hexo injector head_end start -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.body.innerHTML = document.body.innerHTML.replace(/泣/g, '<span style="color: red;">泣</span>');
+        });
+    </script>
+
   <script>document.addEventListener('visibilitychange', function () {
   if (document.visibilityState == 'hidden') {
 normal_title = document.title;
@@ -82,12 +88,6 @@ document.title = '你怎么走了丫';
 } else document.title = normal_title;
 });
 </script>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            document.body.innerHTML = document.body.innerHTML.replace(/泣/g, '<span style="color: red;">泣</span>');
-        });
-    </script>
 <!-- hexo injector head_end end --></head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -228,6 +228,26 @@ document.title = '你怎么走了丫';
 
       <div class="post-meta">
         <time itemprop="dateCreated"
+              datetime="2024-11-03T15:20:43+08:00"
+              content="2024-11-03">
+          11-03
+        </time>
+      </div>
+
+      <div class="post-title">
+          <a class="post-title-link" href="/posts/abbe66f6/" itemprop="url">
+            <span itemprop="name">缘之空/ヨスガノソラ/Yosuga no Sora/妹之空/Where We are Least Alone/YNS</span>
+          </a>
+      </div>
+
+    </header>
+  </article>
+
+  <article itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <div class="post-meta">
+        <time itemprop="dateCreated"
               datetime="2024-09-15T21:20:00+08:00"
               content="2024-09-15">
           09-15
@@ -356,7 +376,7 @@ document.title = '你怎么走了丫';
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">11</span>
+          <span class="site-state-item-count">13</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -369,7 +389,7 @@ document.title = '你怎么走了丫';
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">80</span>
+        <span class="site-state-item-count">83</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -585,11 +605,12 @@ document.title = '你怎么走了丫';
   
 
 
-     
-   <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas> 
-   <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
-   <script type="text/javascript" src="/js/fireworks.js"></script>
 
+
+
+ 
+
+  <script async src="/js/cursor/fireworks.js"></script>
 
 <!-- hexo injector body_end start -->
  <link
