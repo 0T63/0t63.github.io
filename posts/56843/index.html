@@ -107,6 +107,12 @@ document.title = '你怎么走了丫';
 });
 </script>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.body.innerHTML = document.body.innerHTML.replace(/泣/g, '<span style="color: red;">泣</span>');
+        });
+    </script>
+
   <style>
     .heimu, .heimu a, a .heimu, .heimu a.new {
         background-color: #252525;
@@ -126,12 +132,6 @@ document.title = '你怎么走了丫';
         color: #BA0000 !important;
     }
   </style>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            document.body.innerHTML = document.body.innerHTML.replace(/泣/g, '<span style="color: red;">泣</span>');
-        });
-    </script>
 <!-- hexo injector head_end end --></head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
