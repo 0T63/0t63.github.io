@@ -83,6 +83,14 @@
         });
     </script>
 
+  <script>document.addEventListener('visibilitychange', function () {
+  if (document.visibilityState == 'hidden') {
+normal_title = document.title;
+document.title = '你怎么走了丫';
+} else document.title = normal_title;
+});
+</script>
+
   <style>
     .heimu, .heimu a, a .heimu, .heimu a.new {
         background-color: #252525;
@@ -102,14 +110,6 @@
         color: #BA0000 !important;
     }
   </style>
-
-  <script>document.addEventListener('visibilitychange', function () {
-  if (document.visibilityState == 'hidden') {
-normal_title = document.title;
-document.title = '你怎么走了丫';
-} else document.title = normal_title;
-});
-</script>
 <!-- hexo injector head_end end --></head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -332,8 +332,8 @@ document.title = '你怎么走了丫';
       <i class="fa fa-chevron-left"></i> 冒险游戏
     </a></div>
       <div class="post-nav-item">
-    <a href="/posts/fa037ef3/" rel="next" title="御宅少年请成为大人吧！">
-      御宅少年请成为大人吧！ <i class="fa fa-chevron-right"></i>
+    <a href="/posts/H_Game/" rel="next" title="日本成人游戏">
+      日本成人游戏 <i class="fa fa-chevron-right"></i>
     </a></div>
     </div>
       </footer>

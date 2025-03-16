@@ -81,6 +81,14 @@
         });
     </script>
 
+  <script>document.addEventListener('visibilitychange', function () {
+  if (document.visibilityState == 'hidden') {
+normal_title = document.title;
+document.title = '你怎么走了丫';
+} else document.title = normal_title;
+});
+</script>
+
   <style>
     .heimu, .heimu a, a .heimu, .heimu a.new {
         background-color: #252525;
@@ -100,14 +108,6 @@
         color: #BA0000 !important;
     }
   </style>
-
-  <script>document.addEventListener('visibilitychange', function () {
-  if (document.visibilityState == 'hidden') {
-normal_title = document.title;
-document.title = '你怎么走了丫';
-} else document.title = normal_title;
-});
-</script>
 <!-- hexo injector head_end end --></head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -420,8 +420,8 @@ document.title = '你怎么走了丫';
       </div>
 
       <div class="post-title">
-          <a class="post-title-link" href="/posts/Visual_Novel/" itemprop="url">
-            <span itemprop="name">视觉小说</span>
+          <a class="post-title-link" href="/posts/H_Game/" itemprop="url">
+            <span itemprop="name">日本成人游戏</span>
           </a>
       </div>
 
@@ -440,8 +440,8 @@ document.title = '你怎么走了丫';
       </div>
 
       <div class="post-title">
-          <a class="post-title-link" href="/posts/adventure_game/" itemprop="url">
-            <span itemprop="name">冒险游戏</span>
+          <a class="post-title-link" href="/posts/Visual_Novel/" itemprop="url">
+            <span itemprop="name">视觉小说</span>
           </a>
       </div>
 

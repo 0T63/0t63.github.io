@@ -83,6 +83,14 @@
         });
     </script>
 
+  <script>document.addEventListener('visibilitychange', function () {
+  if (document.visibilityState == 'hidden') {
+normal_title = document.title;
+document.title = '你怎么走了丫';
+} else document.title = normal_title;
+});
+</script>
+
   <style>
     .heimu, .heimu a, a .heimu, .heimu a.new {
         background-color: #252525;
@@ -102,14 +110,6 @@
         color: #BA0000 !important;
     }
   </style>
-
-  <script>document.addEventListener('visibilitychange', function () {
-  if (document.visibilityState == 'hidden') {
-normal_title = document.title;
-document.title = '你怎么走了丫';
-} else document.title = normal_title;
-});
-</script>
 <!-- hexo injector head_end end --></head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -323,8 +323,8 @@ document.title = '你怎么走了丫';
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/posts/Love_adventure_game/" rel="prev" title="恋爱冒险游戏">
-      <i class="fa fa-chevron-left"></i> 恋爱冒险游戏
+    <a href="/posts/love_game/" rel="prev" title="恋爱游戏">
+      <i class="fa fa-chevron-left"></i> 恋爱游戏
     </a></div>
       <div class="post-nav-item">
     <a href="/posts/dating_sim/" rel="next" title="恋爱模拟游戏">
