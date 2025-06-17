@@ -77,6 +77,14 @@
 </noscript>
 
 <!-- hexo injector head_end start -->
+  <script>document.addEventListener('visibilitychange', function () {
+  if (document.visibilityState == 'hidden') {
+normal_title = document.title;
+document.title = '你怎么走了丫';
+} else document.title = normal_title;
+});
+</script>
+
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             document.body.innerHTML = document.body.innerHTML.replace(/泣/g, '<span style="color: red;">泣</span>');
@@ -102,14 +110,6 @@
         color: #BA0000 !important;
     }
   </style>
-
-  <script>document.addEventListener('visibilitychange', function () {
-  if (document.visibilityState == 'hidden') {
-normal_title = document.title;
-document.title = '你怎么走了丫';
-} else document.title = normal_title;
-});
-</script>
 <!-- hexo injector head_end end --></head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -322,13 +322,10 @@ document.title = '你怎么走了丫';
 
         
     <div class="post-nav">
+      <div class="post-nav-item"></div>
       <div class="post-nav-item">
-    <a href="/posts/H_Game/" rel="prev" title="日本成人游戏">
-      <i class="fa fa-chevron-left"></i> 日本成人游戏
-    </a></div>
-      <div class="post-nav-item">
-    <a href="/posts/adventure_game/" rel="next" title="冒险游戏">
-      冒险游戏 <i class="fa fa-chevron-right"></i>
+    <a href="/posts/love_game/" rel="next" title="恋爱游戏">
+      恋爱游戏 <i class="fa fa-chevron-right"></i>
     </a></div>
     </div>
       </footer>
@@ -404,7 +401,7 @@ document.title = '你怎么走了丫';
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">44</span>
+          <span class="site-state-item-count">45</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
