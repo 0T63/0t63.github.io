@@ -83,6 +83,12 @@
 </noscript>
 
 <!-- hexo injector head_end start -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.body.innerHTML = document.body.innerHTML.replace(/泣/g, '<span style="color: red;">泣</span>');
+        });
+    </script>
+
   <script>document.addEventListener('visibilitychange', function () {
   if (document.visibilityState == 'hidden') {
 normal_title = document.title;
@@ -90,12 +96,6 @@ document.title = '你怎么走了丫';
 } else document.title = normal_title;
 });
 </script>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            document.body.innerHTML = document.body.innerHTML.replace(/泣/g, '<span style="color: red;">泣</span>');
-        });
-    </script>
 
   <style>
     .heimu, .heimu a, a .heimu, .heimu a.new {
@@ -384,8 +384,8 @@ document.title = '你怎么走了丫';
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/posts/H_Game/" rel="prev" title="日本成人游戏">
-      <i class="fa fa-chevron-left"></i> 日本成人游戏
+    <a href="/posts/Visual_Novel/" rel="prev" title="视觉小说">
+      <i class="fa fa-chevron-left"></i> 视觉小说
     </a></div>
       <div class="post-nav-item">
     <a href="/posts/56843/" rel="next" title="可塑性记忆／プラスティック・メモリーズ／PLASTIC MEMORIES／塑料内存条／塑成型记忆">
@@ -472,7 +472,7 @@ document.title = '你怎么走了丫';
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">29</span>
+        <span class="site-state-item-count">30</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
