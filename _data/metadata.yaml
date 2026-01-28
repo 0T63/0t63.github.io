@@ -1,16 +1,16 @@
-title: "11ty Long Reads"
-description: "A 11ty Long Reads by Adam DJ Brett"
+title: "Kirishima"
+description: "Just Blog"
 language: "en"
 locale: en_US
 image: /logos.png
 favicon: /logos.png
 #url: "http://localhost:8080"
-url: "https://long.000000076.xyz"
+url: "https://0t63.github.io/"
 
 metasocial: 
- - facebook: "https://www.facebook.com/"
- - twitteruser: "@username"
- - twitter: "https://x.com/user"
+#  - facebook: "https://www.facebook.com/"
+#  - twitteruser: "@username"
+#  - twitter: "https://x.com/user"
 
 toc_widget_title: On This Page
 
@@ -34,6 +34,6 @@ footer:
  text2_url: https://adamdjbrett.com
 
 author: 
- name: "Jane Doe"
- email: "info@example.com"
+ name: "Kirishima"
+ email: "k1rishima@proton.me"
  url: "/about/"
