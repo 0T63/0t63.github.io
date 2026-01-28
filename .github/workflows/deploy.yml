@@ -1,0 +1,32 @@
+name: 11ty CI/CD
+
+on:
+  push:
+    branches:
+      - master  # 監聽 main 分支的 push
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20  # 根據你本地 Node 版本選擇
+
+      - name: Install dependencies
+        run: npm ci  # 或 npm install
+
+      - name: Build 11ty site
+        run: npx eleventy  # 或 npm run build
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages   # 部署到 gh-pages 分支
+          publish_dir: ./_site       # 你的 11ty 輸出目錄
