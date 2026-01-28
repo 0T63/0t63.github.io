@@ -24,9 +24,9 @@ navbar:
  - nav: Search
    url: /search/
 
-download:
- text: Download
- url: https://github.com/adamdjbrett/11ty-long-reads
+# download:
+#  text: Download
+#  url: https://github.com/adamdjbrett/11ty-long-reads
 
 footer: 
  text1: Designed by
