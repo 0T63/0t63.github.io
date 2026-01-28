@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://long.000000076.xyz/sitemap.xml
+Sitemap: https://0t63.github.io//sitemap.xml
