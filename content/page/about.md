@@ -12,4 +12,4 @@ permalink: /about/
 
 暫時并沒有打算恢復Hexo博客的打算,配置第三方插件比較麻煩
 
-目前我或許正在用的筆名: `Reiko.` `Hatsumi.` `kirishima` `aoi`  排名並不分前後.
+目前我或許正在用的筆名: `Hatsumi` `Reiko` `kirishima` `aoi`  排名並不分前後.
