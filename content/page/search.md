@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Search
-description: Search description
+description:
 permalink: /search/
 ---
 {% include "partials/search.njk" %}
