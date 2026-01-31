@@ -5,29 +5,75 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2026-01-30T00:00:00Z</updated>
+  <updated>2026-02-01T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
   <entry>
+    <title>日志 2026-02-01</title>
+    <link href="https://example.com/blog/Log/2026-02-01/" />
+    <updated>2026-02-01T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2026-02-01/</id>
+    <content type="html">&lt;h2 id=&quot;01-38&quot; tabindex=&quot;-1&quot;&gt;01点38分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#01-38&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;心情並不是很好.正在找一個充電器,我想用來給手錶衝下電&lt;/p&gt;
+&lt;h3 id=&quot;01-51&quot; tabindex=&quot;-1&quot;&gt;01点51分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#01-51&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;剛找到,原來是它剛才心情不好…藏在枕頭下面了.&lt;/p&gt;
+&lt;h2 id=&quot;02-39&quot; tabindex=&quot;-1&quot;&gt;02点39分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#02-39&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;沒什麽事情做,這種大腦在進行低功耗空轉的姿態很惹人厭煩.最近確實沒什麽事情可做了…短期内能刺激我的想法,剩下的只是平淡無味,兩點一綫的學習日常.照這麽下去我也不知未來是什麽樣了…不過未來什麽樣我也早就無所謂了.畢竟是我曾經想過無數遍的事.很多次我都想過,這種報復性熬夜的好處在哪裏,我用這點消耗身體的時間做了什麽有意義的事情了嗎?除了發呆熬夜,還有什麽?好像確實沒什麽了…顯示器的燈光好亮,亮到我看不清周圍的物體…顯示器的燈光好暗,暗到我看不清未來的路在哪.熬夜到底在提供什麽呢,或許是讓我暫時不需要對明天負責的逃避,亦或者我只是享受著片刻的虛假自由…先想這麽多吧.&lt;/p&gt;
+&lt;h2 id=&quot;03-04&quot; tabindex=&quot;-1&quot;&gt;03点04分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#03-04&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;實際上,還是熬了很久&lt;/p&gt;
+&lt;h2 id=&quot;03-51&quot; tabindex=&quot;-1&quot;&gt;03点51分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#03-51&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;怎麽 Obsidian 的換行符只能跟隨系統…,每次更新日志我還要手動轉換一下的說.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>日志 2026-01-31</title>
+    <link href="https://example.com/blog/Log/2026-01-31/" />
+    <updated>2026-01-31T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2026-01-31/</id>
+    <content type="html">&lt;h2 id=&quot;08-52&quot; tabindex=&quot;-1&quot;&gt;08点52分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-31/#08-52&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;morning&lt;br&gt;
+其實起來有一段時間,但是一直賴在床上.剛起床吃完早餐…不對忘記刷牙了…&lt;/p&gt;
+&lt;h2 id=&quot;09-00&quot; tabindex=&quot;-1&quot;&gt;09点00分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-31/#09-00&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;現在好了.morning ,我現在準備解釋一下我爲什麽想到昨天的那個點子,[[2026-01-30#^5f2d8a]] 把樹莓派作爲本地隨身計算節點,而不是ThinkPad X220,爲什麽?因爲我是設想的環境比較極端,我總不能帶著兩本筆記本不是?所以在設想的情況下,我帶著我的 天選6Pro 在極端環境下(相對極端),鏈接樹莓派繼續產出…畢竟如果VPS 掉线,网络不稳定,需要一个确定可用的 Linux 环境继续写代码或整理东西&lt;/p&gt;
+&lt;p&gt;你覺得呢?我覺得可行性可以,但實驗性較大,平常你什麽時候會遇到?所以基本上就是會推的比較久.不過由於目前其他任務基本都已經完成.所以可以開始著手這件事.&lt;/p&gt;
+&lt;p&gt;這件事確實試驗性較强,而且有點過度設計,因爲我可能hmmm很少出遠門,但這麽提前佈置能做到在那種情況下實時響應,畢竟你不可能迅速配置出一份可供你使用的 Linux 計算節點…因爲現在其他工作基本已經收尾,還剩下一些長期學習工作而已&lt;/p&gt;
+&lt;p&gt;樹莓派的系統嘛我還在想…轻量,穩定就盡量穩定,判斷標準大概在以太網接口,功耗要夠低,能被小型電源穩住.社區要足夠成熟就是.畢竟硬件刷機這塊我確實沒怎麽玩過.我現在去查查資料.&lt;/p&gt;
+&lt;p&gt;考慮到樹莓派算力緣故,跑的基本都不會很大,第一項標準可以適當往後靠…&lt;/p&gt;
+&lt;p&gt;看了一會,準備試試 &lt;strong&gt;Raspberry Pi 4B,4GB 内存版&lt;/strong&gt;.但是預算嘛…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.raspberrypi.com/documentation/computers/getting-started.html&quot;&gt;RaspBarry doc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;怎麽説呢,目前的設想是改裝為一個簡易移動終端,考慮加裝一塊簡易 LED 顯示終端,如有需要外接USB鍵盤直接控制進程…不過要推到過年了,這裏先備忘錄吧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chatgpt.com/g/g-p-6979ce434f5481919b7e3bab4aa2b1b5-gong-zuo-qu/c/697b7b62-eda4-8320-9fcb-3f59cbd791e1&quot;&gt;工作區 - 換發行版建議&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;09-43&quot; tabindex=&quot;-1&quot;&gt;09点43分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-31/#09-43&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;遠程桌面的進程又掉了,真奇怪了, SSH 還能連接的上…中午去看看吧.&lt;/p&gt;
+&lt;h2 id=&quot;10-06&quot; tabindex=&quot;-1&quot;&gt;10点06分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-31/#10-06&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;是我的客戶端原因,不用去看了&lt;/p&gt;
+&lt;h2 id=&quot;21-18&quot; tabindex=&quot;-1&quot;&gt;21点18分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-31/#21-18&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;有時候我會很煩,沒有由來的煩躁,我並不清楚是爲什麽,可能是別的什麽原因,但我并不能搞清楚是什麽.可能只是生活裏某些事情.人在這個時候總是會想一些事,負面的,害羞的,不齒的,骯髒的,令人感到負面的事情總是被印象深刻的記住.我只是感到有些煩悶,但它們就像感受到我的心情一樣,縈繞在我的心旁.&lt;/p&gt;
+&lt;p&gt;或許我該靜靜.今天的日志沒怎麽記.或許是因爲大半時間都被我浪費了.就這麽發出去吧,我現在一點幹勁提不上來…聼會歌,或者睡一會.不然還能做什麽呢.誰知道呢…&lt;/p&gt;
+&lt;h2 id=&quot;22-16&quot; tabindex=&quot;-1&quot;&gt;22点16分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-31/#22-16&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;還是經典綠罐好喝,其實ultra系列也不錯.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>一些瑣碎的思考</title>
-    <link href="https://example.com/blog/2026-01-30/" />
+    <link href="https://example.com/blog/Log/2026-01-30/" />
     <updated>2026-01-30T00:00:00Z</updated>
-    <id>https://example.com/blog/2026-01-30/</id>
-    <content type="html">&lt;h2 id=&quot;01-49&quot; tabindex=&quot;-1&quot;&gt;01点49分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/2026-01-30/#01-49&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+    <id>https://example.com/blog/Log/2026-01-30/</id>
+    <content type="html">&lt;h2 id=&quot;01-49&quot; tabindex=&quot;-1&quot;&gt;01点49分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-30/#01-49&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;花了一會把ThinkPad X220刷了個 Lubuntu 有一説一這UI看著是挺廉價的,今天沒做什麽有意義的事,就單純刷完之後配置了一些遠程 SSH 需要的工具,openssh-server,tailscale,還有個git.都沒啥技術含量,簡單地把X220改裝成了隨時準備的技術節點…以後出遠門有帶著它的理由了&lt;/p&gt;
 &lt;p&gt;今天沒什麽好寫的,就這樣吧.今天甚至都沒稍微學點有用的,本來還想著看會DOM呢&lt;/p&gt;
 &lt;p&gt;説實在的了唔講的好像真有,刷完機之後我本來是準備先鏈接互聯網的,結果打不開無綫網木結構是這死媽的二手電腦販子把無綫模塊給扣了.這立即電池也是用不了的,這還賣我爸200.我都無語…看了一下bios確認只能有綫鏈接路由,還好旁邊有網綫.能上網…本來準備安裝個code GUI,結果發現CPU的運行庫太老貌似不行,如果我想要帶這個出去那只能Vim編程了hhhh.遂放棄,然後還有件事是裝tailscale,貌似因爲網絡被墻了的原因,如果我想連接還要給這臺電腦裝個VPN,這種電腦如果相裝GUI還是算了,命令行VPN吧.但是我改主意了,我準備把這臺電腦當作本地計算節點,如果VPS挂了本地還有這玩意救急不是? ^259d4e&lt;/p&gt;
 &lt;p&gt;那麽我想出來一個新點子,樹莓派支持以太網直連嗎?我預先把鏡像先下載到樹莓派裏,環境都預先配置好,微型電源什麽的,還有Linux.到時候在外面比如咖啡館,VPS挂掉的情況下能不能靠這種方式繼續產出?&lt;/p&gt;
 &lt;p&gt;這是個好主意…我會試試的.目前X220計劃已經告一段落.可以試試樹莓派了[[備忘錄]]&lt;/p&gt;
 &lt;p&gt;目前的計劃是把樹莓派改裝成類似本地GitHub workflow,剛才我已經説了,預裝依賴環境…&lt;/p&gt;
-&lt;h2 id=&quot;02-21&quot; tabindex=&quot;-1&quot;&gt;02点21分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/2026-01-30/#02-21&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;02-21&quot; tabindex=&quot;-1&quot;&gt;02点21分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-30/#02-21&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;我是不是忘了講手機的進度了?很遺憾的事情是,我的手機目前並不能解鎖bootloader,一方面OPPO廠商極度不配合,很少有人試過我這個機型.我妥協了,所以我去嘗試了termux,但是效果也不盡人意.只能先放棄了. [[2026-01-29#02点48分]]&lt;/p&gt;
-&lt;h2 id=&quot;15-46&quot; tabindex=&quot;-1&quot;&gt;15点46分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/2026-01-30/#15-46&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;15-46&quot; tabindex=&quot;-1&quot;&gt;15点46分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-30/#15-46&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;我瞭解到了NixOS這一Linux發行版,我感覺挺不錯的,它做到了原子級回滾,不是修改會和三年前相似的配置,為是完全回到那個時候的系統狀態,系統層面不會有一個字節的差距hh,但問題是學習曲綫很陡峭,畢竟比較的反直覺,但是如果熟悉了就很舒服了.&lt;/p&gt;
 &lt;p&gt;我會考慮試試的,加入備忘錄[[備忘錄]]&lt;/p&gt;
-&lt;h2 id=&quot;17-13&quot; tabindex=&quot;-1&quot;&gt;17点13分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/2026-01-30/#17-13&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;17-13&quot; tabindex=&quot;-1&quot;&gt;17点13分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-30/#17-13&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;我在花時間瞭解Docker與Nix的理念, Dockerfile 本身是命令式的,按顺序跑,你的最终结果依赖于&lt;strong&gt;运行时环境的状态&lt;/strong&gt;,也就是隐含的时间变量(apt 仓库什么时候更新,基础镜像什么时候改变). Nix 类似于给这个过程加了“&lt;strong&gt;不可变的时间点锁&lt;/strong&gt;”:每个依赖,每个源,每个构建步骤都有&lt;strong&gt;精确的哈希锁定&lt;/strong&gt;.即使你再重建,也会严格按这个快照来取依赖,不会受时间或仓库更新的影响.&lt;/p&gt;
 &lt;p&gt;先講講dockerfile&lt;/p&gt;
 &lt;pre class=&quot;language-dockerfile&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-dockerfile&quot;&gt;&lt;span class=&quot;token instruction&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;FROM&lt;/span&gt; ubuntu:22.04&lt;/span&gt;
