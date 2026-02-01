@@ -1,17 +1,15 @@
 ---
-title: 
+title: 日本选民老龄化带来的政治问题
 author: 
 date: 2026-02-02
 # updated:
-description:
+description: 日本首相岸田文雄在 2023 年日本國會開幕式上發表政策演說,宣布日本正因人口危機而處於無法維持基礎社會功能的邊緣.日本社會的年齡中位數為 49 歲,位居世界第二.
 tags:
   - Report 
 ---
 
 _This article is a non-commercial translation for learning purposes only. Copyright of the original work remains with the original author._  
 _本文为非商业性质的学习型翻译,原文版权归原作者所有._
-
-日本首相岸田文雄在 2023 年日本國會開幕式上發表政策演說,宣布日本正因人口危機而處於無法維持基礎社會功能的邊緣.日本社會的年齡中位數為 49 歲,位居世界第二.
 
 在 2021 年的眾議院投票選舉中,由於投票者年齡中位數為 59 歲,政策投票的重心逐漸從納稅群體轉移至退休人群.隨著人口老齡化,政策可能更傾向於老年群體利益的趨勢逐漸顯現.
 
