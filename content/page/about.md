@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: 
 description: "Life is a tragedy when seen in close‑up, also a tragedy in long‑shot."
 permalink: /about/
 ---
