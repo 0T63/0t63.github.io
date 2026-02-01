@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://0t63.github.io/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/</loc>
+		<lastmod>2025-11-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/</loc>
+		<lastmod>2025-11-08</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/blog/Log/2025-11-17/</loc>
+		<lastmod>2025-11-17</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://0t63.github.io/blog/Log/2026-01-29/</loc>
 		<lastmod>2026-01-29</lastmod>
 	</url>
@@ -49,5 +64,15 @@
 	<url>
 		<loc>https://0t63.github.io/feed/feed.xml</loc>
 		<lastmod>2026-02-01</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/blog/Log/2026-02-02/</loc>
+		<lastmod>2026-02-02</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/</loc>
+		<lastmod>2026-02-02</lastmod>
 	</url>
 </urlset>

@@ -5,11 +5,83 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2026-02-01T00:00:00Z</updated>
+  <updated>2026-02-02T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title></title>
+    <link href="https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/" />
+    <updated>2026-02-02T00:00:00Z</updated>
+    <id>https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;This article is a non-commercial translation for learning purposes only. Copyright of the original work remains with the original author.&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;本文为非商业性质的学习型翻译,原文版权归原作者所有.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;日本首相岸田文雄在 2023 年日本國會開幕式上發表政策演說,宣布日本正因人口危機而處於無法維持基礎社會功能的邊緣.日本社會的年齡中位數為 49 歲,位居世界第二.&lt;/p&gt;
+&lt;p&gt;在 2021 年的眾議院投票選舉中,由於投票者年齡中位數為 59 歲,政策投票的重心逐漸從納稅群體轉移至退休人群.隨著人口老齡化,政策可能更傾向於老年群體利益的趨勢逐漸顯現.&lt;/p&gt;
+&lt;p&gt;多數決策模型&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;認為,出於自身利益導向,老年選民傾向於支持日益慷慨的社會福利,即使這可能損害其他世代的利益.&lt;/p&gt;
+&lt;p&gt;在眾議院投票選舉的投票率中,老年群體長期以來投票率更高且穩步上升,不同年齡層選民的投票比例差異十分明顯.經合組織&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;的研究顯示,55 歲以上與 35 歲以下選民之間的投票率差距為 25 個百分點,而經合組織的平均差距為 12 個百分點.若假設較高的投票率反映較高的政治興趣,這意味著老年群體可能對政策走向產生以自身利益為導向的影響,其結果可能損害年輕世代.&lt;/p&gt;
+&lt;p&gt;然而,目前尚無研究提供確鑿證據證明老年人口普遍以自身利益為導向.在 2000 年初期,日本社會對顯然不可持續的社會保障制度抱持強烈憂慮.在所有年齡群體中,老年人對社會保障問題尤為關注,並將其視為投票決策的重要因素.&lt;/p&gt;
+&lt;p&gt;日本的老年群體可能並不像中位選民模型&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fn3&quot; id=&quot;fnref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;所預測的那樣明確以自身利益為導向.日本內閣府與厚生勞動省在一系列調查中發現,老年群體對社會保障政策的支持程度與其他年齡群體相當.&lt;/p&gt;
+&lt;p&gt;在國際比較中,日本老年群體被認為比其他國家的老年群體更支持代際公平&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fn4&quot; id=&quot;fnref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt;.在日本內閣於 2005,2010,2015 及 2020 年針對 60 歲以上人群所進行的跨國調查中,受訪者被詢問政府政策應優先考慮年輕人或老年人.結果顯示,日本老年人支持「應優先考慮年輕世代」的比例最高,達 31%,相比之下,美國為 17%,德國與瑞典各為 17%.&lt;/p&gt;
+&lt;p&gt;根據上述證據,以最大化自身利益為導向的選民模型,似乎並不完全適用於日本作為福利國家的現實狀態,但仍可能存在其他影響因素……&lt;/p&gt;
+&lt;p&gt;影響公眾對社會保障態度的主要因素之一是人口結構的變化.在 2000 年初期,日本的人口危機引起社會高度關注,這反映出社會保障制度亟需改革.隨後的社會討論顯著影響了老年群體對社會保障的態度.&lt;/p&gt;
+&lt;p&gt;毫無疑問,日本不同年齡群體在政治態度上存在明顯差異.出生於 1947 至 1949 年間的嬰兒潮世代,在青年時期經歷了日本經濟的高速成長,反體制學生運動,工業污染問題以及越南戰爭.這些獨特經歷塑造了他們終生較為進步的政治態度,以及傾向追求公共利益的價值觀.因此,在 2009 年的國會大選中,60–69 歲選民以 49% 的相對多數支持在野黨,使保守派的自民黨失去執政地位.&lt;/p&gt;
+&lt;p&gt;在經合組織成員國中,日本老年群體的勞動參與率居於首位.在 60–70 歲男性中,接近一半仍在工作,而在 70–75 歲男性中,約四分之一仍持續就業.約四分之三的老年勞動力從事非正規工作,他們普遍將社會保障問題視為投票決策中的關鍵考量.&lt;/p&gt;
+&lt;p&gt;儘管就業狀況不穩定,老年選民並不必然以自身利益為唯一導向,也未必損害年輕世代的利益.在職的老年勞工仍能從其所屬公司獲得一定安全感,使其不太可能基於自身利益與公司外部群體組織政治行動.這些在職老年員工反而更可能理解並支持年輕同事的利益.&lt;/p&gt;
+&lt;p&gt;日本的長期照護保險制度對老年群體具有重要影響.然而,其營運成本的急劇上升對財政穩定構成挑戰.由於該制度屬於「普遍覆蓋制度」(universal system),資格認定不依家庭條件,而以年齡,身體與心理健康狀況為準.凡 65 歲以上者,以及 40–64 歲中患有與老化相關疾病者,均可接受社區或機構照護.這種普遍性在一定程度上降低了老年群體參與政治活動的動機.&lt;/p&gt;
+&lt;p&gt;在自營業者群體中,約有 40% 為 65 歲以上人口,且不存在強制退休制度.他們的政治立場往往與自身經營的小型企業利益一致,而這些利益有時與一般老年消費者的利益並不相同.&lt;/p&gt;
+&lt;p&gt;總體而言,日本選民結構的老齡化,似乎並未導致政府以犧牲年輕世代為代價而優先照顧老年群體.然而,老年人如何影響政策選擇與政策結果,仍有許多問題尚待進一步釐清……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;譯者附註&lt;/strong&gt;: 初次翻譯,品質與原文仍有極大差距,尚請見諒.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Copyright | Translation Notice | Special Statement&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Important Notice (English Version)&lt;/strong&gt;&lt;br&gt;
+The CC BY-NC-SA 4.0 license stated in this blog’s footer applies &lt;strong&gt;only to original content published on this site&lt;/strong&gt;.&lt;br&gt;
+This article is a &lt;strong&gt;translation and thus a derivative work&lt;/strong&gt;. In order to respect the copyright of the original text, this translation is &lt;strong&gt;not covered by the CC license&lt;/strong&gt;.&lt;br&gt;
+Any reproduction, redistribution, or adaptation of this translated text requires &lt;strong&gt;separate permission&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Original Work&lt;/strong&gt;: This article is translated from “ ”. The original author is “ ”. All copyrights of the original text belong to the original author.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Translation Information&lt;/strong&gt;: Translated, reviewed, and published by Hatsumi. The translation reflects the original author’s views only. Any inaccuracies or interpretative errors in the translation are the responsibility of the translator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Purpose of Use&lt;/strong&gt;: This translation is provided &lt;strong&gt;solely for non-commercial purposes&lt;/strong&gt;, including personal study, academic research, and cultural exchange.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copyright Concerns&lt;/strong&gt;: If the copyright holder believes that this translation infringes upon their rights, please contact us using the information below. We will respond and take appropriate action promptly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact&lt;/strong&gt;: &lt;a href=&quot;mailto:k1rishima@proton.me&quot;&gt;k1rishima@proton.me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;中文补充说明&lt;/strong&gt;&lt;br&gt;
+本站页脚所标注的 CC BY-NC-SA 4.0 知识共享协议仅适用于本站原创内容.&lt;br&gt;
+本文为翻译作品,属于原文的衍生作品,为尊重原作者版权,不适用该协议.&lt;br&gt;
+本文译文仅用于非商业性的学习,研究与文化交流目的.如版权方认为本文存在侵权问题,请联系译者,将第一时间处理.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;多数决策模型是将多数主义原则应用于具体的决策过程和公共选择理论中，尤其关注在特定投票机制下，集体偏好如何转化为最终政策。&lt;a href=&quot;https://en.wikipedia.org/wiki/Majoritarianism&quot;&gt;WikipediaEN - Majoritarian Decision-Making Model&lt;/a&gt; &lt;a href=&quot;https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref1&quot;&gt;↩︎&lt;/a&gt; &lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;经济合作与发展组织的前身是 1947 年由美国和加拿大发起，成立于 1948 年的欧洲经济合作组织（Organisation for European Economic Co-operation，缩写为 OEEC），该组织成立的目的是帮助执行致力于第二次世界大战以后欧洲重建的马歇尔计划。后来其成员国逐渐扩展到非欧洲国家。1961 年，欧洲经济合作组织改名为经济合作与发展组织。&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E4%B8%8E%E5%8F%91%E5%B1%95%E7%BB%84%E7%BB%87&quot;&gt;WikipediaCN - 经济合作与发展组织&lt;/a&gt; &lt;a href=&quot;https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref2&quot;&gt;↩︎&lt;/a&gt; &lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;中间选民定理（英语：Median voter theorem）是邓肯·布莱克在 1948 年提出的一个与选择排序投票有关的模型。它指出，如果选民和候选人的政治光谱可以用一维坐标来表示，选民再根据候选人与自己的政治立场接近程度进行排序投票，并且投票规则为孔多塞投票法，那么立场最接近中间选民的候选人将会当选。&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E9%80%89%E6%B0%91%E5%AE%9A%E7%90%86&quot;&gt;WikipediaCN - 中间选民定理&lt;/a&gt; &lt;a href=&quot;https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref3&quot;&gt;↩︎&lt;/a&gt; &lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fnref3&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;代际公平,也称作代际平等.经济、心理和社会学背景下的代际公平指的是几代人之间的公平或正义。这个概念除了可以描述儿童、青少年、成人和老年人之间的动态公平之外，也可以描述当前一代与未来几代人之间的公平. 在 Wikipedia 上查看: &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%BB%A3%E9%99%85%E5%B9%B3%E7%AD%89&quot;&gt;WikipediaCN - 代际平等&lt;/a&gt; | &lt;a href=&quot;https://en.wikipedia.org/wiki/Intergenerational_equity&quot;&gt;WikipediaEN - intergenerational equity&lt;/a&gt; &lt;a href=&quot;https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref4&quot;&gt;↩︎&lt;/a&gt; &lt;a href=&quot;https://example.com/blog/Report/The%20problematic%20politics%20of%20Japan%E2%80%99s%20ageing%20electorate/#fnref4&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+  </entry>
+  <entry>
+    <title>日志 2026-02-02</title>
+    <link href="https://example.com/blog/Log/2026-02-02/" />
+    <updated>2026-02-02T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2026-02-02/</id>
+    <content type="html">&lt;h2 id=&quot;00-39&quot; tabindex=&quot;-1&quot;&gt;00点39分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-02/#00-39&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;睡夠八個小時了.反向八個小時.用零碎的輕度睡眠湊出來的,深度睡眠就50分鐘…三點半那會實在撐不住了睡著了,中途醒了一下想吃個飯.想了想還是繼續睡了…我一月賬單是怎麽做到兩萬五的??哦買了一堆東西…困炸想繼續睡…還是起來把東西準備一下吧.下午的時間全浪費了,雖然現在不想報復性熬夜…由於CI/CD的成本很低我今天順便把之前的閲讀筆記搬運過來,還有一部翻譯作品.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>日志 2026-02-01</title>
     <link href="https://example.com/blog/Log/2026-02-01/" />
@@ -26,14 +98,15 @@
 &lt;h2 id=&quot;06-05&quot; tabindex=&quot;-1&quot;&gt;06点05分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#06-05&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;是的,現在已經六點了.你猜我爲什麽不睡?單純不想…沒什麽事可做.算了還是睡了吧.&lt;/p&gt;
 &lt;h2 id=&quot;07-07&quot; tabindex=&quot;-1&quot;&gt;07点07分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#07-07&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;靈感突然迸發,遂起床寫點東西,也不能説是靈感的東西.想到了挺久之前看作爲洛夫克拉夫特時的作品,雖然我現在更喜歡 poe ,hh,有段話&lt;/p&gt;
+&lt;p&gt;靈感突然迸發,遂起床寫點東西,也不能説是靈感的東西.想到了挺久之前看作爲洛夫克拉夫特書迷時的作品,雖然我現在更喜歡 Poe ,hh,有段話:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;永远长眠的未必是死亡，&lt;br&gt;
 经历奇异万古的亡灵也会死去。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;剛看那會我並不能感受到什麽,最多也就是科幻,怪奇.并沒有什麽特別的實感…當時還沒有接觸過存在主義,也沒有腦子裏現在的那一堆問題,當現在我基本什麼時候都被存在主義焦慮纏著的時候我才看清這句話的意思.存在主義焦慮的出現,讓我直接站在了風暴眼裏.這時的同一句話就不再是所謂的&amp;quot;宇宙恐怖&amp;quot;,而是真真切切的存在焦慮,虛無主義.真正切實的落到了個人經驗的層面上,沒有什麽選擇是安全的,你選擇的不了不去選擇,因爲你選擇了不去選擇實際上也是一種選擇不是麽?你被被迫面對你最不想接受的結局.于是你才真正读懂了它.從存在主義看這句話,其實很像加繆和薩特,只是角度不同,他們同樣否認終極避難所,永恆并不拯救你,也不存在終極意義,意義并不是被發現,而是被迫承擔.&lt;/p&gt;
 &lt;p&gt;不過我現在嘛.我也不好説.像是已經習慣了,存在主义不是让人反复凝视深渊,而是承认深渊存在,然后仍然决定每天做什么.看清楚世界的無意義與放棄生活并不劃等號.多著手當下,而不是被宏大宇宙敘事壓倒.亦或者是因長時間滯留在虛無主義的籠罩之下被世界沒有意義的念頭不斷自我複製的恐懼壓倒&lt;/p&gt;
-&lt;p&gt;冷!冷!冷!舞!舞!舞!&lt;/p&gt;
+&lt;p&gt;冷!冷!冷!&lt;br&gt;
+舞!舞!舞!&lt;/p&gt;
 &lt;h2 id=&quot;11-39&quot; tabindex=&quot;-1&quot;&gt;11点39分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#11-39&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;congratulations!..今天共計睡眠時間32分鐘,超過了全球1%人的睡眠時間…沒話講…&lt;/p&gt;
 &lt;h2 id=&quot;11-48&quot; tabindex=&quot;-1&quot;&gt;11点48分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#11-48&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
@@ -149,6 +222,121 @@ Nix → &quot;数学式可复现&quot;，它从系统设计角度定义了因果
 &lt;h2 id=&quot;18-12&quot; tabindex=&quot;-1&quot;&gt;18点12分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-29/#18-12&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;![[Pasted image 20260129181239.png]]&lt;/p&gt;
 &lt;p&gt;Thx for the open-source project 😌&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>日志 2025-11-17</title>
+    <link href="https://example.com/blog/Log/2025-11-17/" />
+    <updated>2025-11-17T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2025-11-17/</id>
+    <content type="html">&lt;p&gt;嘩,死啦死啦死啦,冻到仆街咁样,今日真係超级无敌冻,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;街灯咁黄,风又咁凶,我一个人冻到好似畀人放生咗咁 XDDD&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本来记得寒流要嚟,结果都系唔记得,仲着住秋季校服……&lt;br&gt;
+一出门口,啲冷空气立刻对住我嚟个锁喉,成身鸡皮都起晒&lt;br&gt;
+仲要由朝早开始落住淅沥淅沥嘅细雨,真係冻到飞起,落住雨都要坚持做返我呢个唔正常嘅人?冻死冻死&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2025/11/17/RZ9c8tXWvV6yBzN.jpg&quot; alt=&quot;rain&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>札记 2025-11-08</title>
+    <link href="https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/" />
+    <updated>2025-11-08T00:00:00Z</updated>
+    <id>https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/</id>
+    <content type="html">&lt;!-- 
+命名规则: 2026-02-02 Philosophical Journal
+
+思考不是产生一致，或是使外表在一个大原则的伪装下变得为人熟知。思考是重新学习如何去看，操控人的意识，从每种形象中发现一种特权位置 
+
+--&gt;
+&lt;p&gt;我是否该担心把这个被其创造者谨慎使用的主题扯得太远了呢？我只读过胡塞尔的这些观点：“就其本身而言，真实的东西是绝对真实的&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;；真理有一个，与自身一致，不管认识真理的是谁，是人、魔鬼、天使，还是神。”这话表面来看自相矛盾，却有严密的逻辑性，但前提是要接受他先前的观点。理性胜利了，并且用这种声音吹响号角&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;，我不可否认。其观点在这个荒谬的世界又有何意呢？天使或是神的认识对我来说都没有意义，神赐的理性准许给我的地位永远都让我难以置信。我从他的观点中也辨认出一种跨跃，尽管是以抽象形式出现的，但对我来说却意味着要忘记我不想忘记的。胡塞尔进一步感叹：“假如一切承受磁力的质量都消失了，那么磁力规律也不会因此被摧毁，只不过是没有再施行的可能罢了。”这时我明白，自己面对一种慰藉的形而上学。而如果我想发现思想在何时偏离了清晰之路，只须重读胡塞尔有关精神的相似推理：“倘若我们考虑清楚心理过程的确切规则，它们也会一成不变的，如同理论自然科学的基本规则一样。因此即使没有心理过程，它们也是有效的。”即使精神不存在，其诸多规则也会存在&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fn3&quot; id=&quot;fnref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;！于是我发现，胡塞尔旨在从一种心理学的真理中制定出一个合理规则：在否定了人类理性的整合力后，他通过这一权宜之计跃入了永恒的理性&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fn4&quot; id=&quot;fnref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;真理本身就是自洽(存疑)的,不管认识到真理的是人,神,动物,还是神,它都不会改变. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;这里的真理指的是认为胡塞尔的现象学的真理是真实存在的自欺欺人的“理性”. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;简单总结:胡塞尔将心理学中的经验性过程抽象化,提出一套不依赖任何主体而永远有效的精神逻辑结构.加缪认为这是一种“跳跃”,因为胡塞尔从有限的人的心理经验推导出了一个永恒的理性体系.与前文的表述“假如一切承受磁力的质量都消失了,那么磁力规律也不会因此被摧毁,只不过是没有再施行的可能罢了”相似,都是表达了有一个独立于个体的永恒理性体系.可能有的读者会认为可以这么表达:“假如一切人的肉体都消失了,那么精神也不会因此被摧毁,只不过是没有再施行的可能罢了”.大体方向正确,但是有一点需要注意:胡塞尔想表达的是精神规律永恒存在,而不是人的精神.这里他想要强调的是规律的普遍性与独立性.如果精神活动发生,那么它一定遵守某些必然的逻辑结构.胡塞尔抽象化了心理规律,剥离出了一套独立于个体的永恒理性体系. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fnref3&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;通过剥离出一套永远有效的精神逻辑结构来进行跳跃.原本胡塞尔只是在描述人类的心理活动,这些活动是具体的,经验的,依赖主体的.但胡塞尔话锋一转,表达这些活动的“结构”是有一种普适规律的,这种规律不依赖具体的人类心理思考.于是加缪认为这是一种抽象的跳跃——因为缺乏证明. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal/#fnref4&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+  </entry>
+  <entry>
+    <title>札记 2025-11-08</title>
+    <link href="https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/" />
+    <updated>2025-11-08T00:00:00Z</updated>
+    <id>https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/</id>
+    <content type="html">&lt;!-- 
+命名规则: 2026-02-02 Philosophical Journal
+
+思考不是产生一致，或是使外表在一个大原则的伪装下变得为人熟知。思考是重新学习如何去看，操控人的意识，从每种形象中发现一种特权位置 
+
+--&gt;
+&lt;p&gt;对于一个荒谬的头脑来说，这是难以置信的&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;。如今，正是这种在谦逊和显现在意向态度中的确信之间的摇摆&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;，以及这种现象学思想的闪光，能最好地阐释荒谬的推理&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn3&quot; id=&quot;fnref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;胡塞尔同样提到了由意向揭露的“超时间本质”&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn4&quot; id=&quot;fnref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt;，他听起来像柏拉图&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn5&quot; id=&quot;fnref5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt;。并非所有事物都不能用一物来解释而必须用万物来解释，我觉得没什么不同&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn6&quot; id=&quot;fnref6&quot;&gt;[6]&lt;/a&gt;&lt;/sup&gt;。诚然，这些想法或本质要素都是意识在每种描述最后“实现”的&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn7&quot; id=&quot;fnref7&quot;&gt;[7]&lt;/a&gt;&lt;/sup&gt;，不会被作为完美的模范&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn8&quot; id=&quot;fnref8&quot;&gt;[8]&lt;/a&gt;&lt;/sup&gt;。但可以确信，它们都直接出现在认识的每种依据中。单一的观点不再能解释一切，无数的本质要素为无数对象赋予一个意义&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn9&quot; id=&quot;fnref9&quot;&gt;[9]&lt;/a&gt;&lt;/sup&gt;。这个世界停顿了，但是却被点亮了&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn10&quot; id=&quot;fnref10&quot;&gt;[10]&lt;/a&gt;&lt;/sup&gt;。柏拉图现实主义变得直观起来&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn11&quot; id=&quot;fnref11&quot;&gt;[11]&lt;/a&gt;&lt;/sup&gt;，但它仍旧是现实主义。克尔凯郭尔被自己的上帝吞没&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn12&quot; id=&quot;fnref12&quot;&gt;[12]&lt;/a&gt;&lt;/sup&gt;；巴门尼德使思想深陷于“同一”中&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn13&quot; id=&quot;fnref13&quot;&gt;[13]&lt;/a&gt;&lt;/sup&gt;。而思想把自己掷入一种抽象的多神论中&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn14&quot; id=&quot;fnref14&quot;&gt;[14]&lt;/a&gt;&lt;/sup&gt;，这还不够：幻觉与虚构同样属于“超时间本质”&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn15&quot; id=&quot;fnref15&quot;&gt;[15]&lt;/a&gt;&lt;/sup&gt;。在观念的新世界中，光怪陆离的物种与大都会人这一更现代的物种协调合作&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn16&quot; id=&quot;fnref16&quot;&gt;[16]&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;有一种纯心理学的观点认为&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn17&quot; id=&quot;fnref17&quot;&gt;[17]&lt;/a&gt;&lt;/sup&gt;：世界的各个方面都是享有特权的&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn18&quot; id=&quot;fnref18&quot;&gt;[18]&lt;/a&gt;&lt;/sup&gt;，这种观点在一个荒谬之人看来真实而令人不快&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn19&quot; id=&quot;fnref19&quot;&gt;[19]&lt;/a&gt;&lt;/sup&gt;。说任何事都是享有特权的就等于说任何事都是平等的&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn20&quot; id=&quot;fnref20&quot;&gt;[20]&lt;/a&gt;&lt;/sup&gt;，但是这一真理在形而上学方面影响极为深远&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn21&quot; id=&quot;fnref21&quot;&gt;[21]&lt;/a&gt;&lt;/sup&gt;，以致荒谬之人通过一个基本反应便感觉和柏拉图更接近了&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn22&quot; id=&quot;fnref22&quot;&gt;[22]&lt;/a&gt;&lt;/sup&gt;。实际上他被告知，每种形象都有一个享有平等特权的本质&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn23&quot; id=&quot;fnref23&quot;&gt;[23]&lt;/a&gt;&lt;/sup&gt;。在这个没有等级的理想世界，正式部队只由将军组成&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn24&quot; id=&quot;fnref24&quot;&gt;[24]&lt;/a&gt;&lt;/sup&gt;。诚然，至高无上被消除了，但思想中的突然转变让一种有缺陷的内在性回归到这个世界中，这种内在性恢复了这个宇宙的深度&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fn25&quot; id=&quot;fnref25&quot;&gt;[25]&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr class=&quot;footnotes-sep&quot;&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;为什么无法相信? 对于一个“荒谬”(直面/相信这个世界没有意义)的人来说,这种观点是不可接受的. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;接受“无意义”与“跳跃”之间的摇摆不定. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;“闪光”指前文现象学拒绝解释世界,但其中包含讽刺意味.闪光照亮了经验,却暴露出理性重建秩序的欲望,即加缪所说的“跳跃”. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref3&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;“超时间本质(essence intemporelle)”指事物都有超越时间的普适本质,意义不会因时间消失. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref4&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn5&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;讽刺意味:胡塞尔听起来像柏拉图. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref5&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn6&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;胡塞尔把“一神论”退化为“多神论”,依然试图解释意义,本质上是在逃避荒谬. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref6&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn7&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;意识通过不断分析最终得出的结果. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref7&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn8&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;这些“本质”不是超验模范,而是意识的结果. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref8&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn9&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;意识在经验中“实现”这些本质,使对象有意义,但仍然是逃避荒谬. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref9&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn10&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;现象学试图在无意义世界中重建秩序,通过“超时间本质”恢复意义. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref10&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn11&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;“现实主义”指哲学层面,带讽刺意味. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref11&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn12&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;克尔凯郭尔的“跳跃”是宗教性的信仰飞跃,把荒谬交给上帝. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref12&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn13&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;巴门尼德的逻辑统一,把变化归入永恒存在,消除荒谬. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref13&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn14&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;加缪讽刺胡塞尔的“超时间本质”,把一神论变多神论. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref14&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn15&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;幻觉(illusion)和虚构(fiction)都是“超时间本质”,是意识的创造. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref15&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn16&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;观念新世界指胡塞尔意识中的世界,被赋予“本质”的事物与现代人协调,但只是幻觉. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref16&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn17&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;从心理学角度,只讨论意识经验层面. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref17&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn18&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;“特权”指意识赋予对象的显现地位. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref18&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn19&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;对荒谬者而言,这种秩序感是人为的,不愉快. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref19&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn20&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;每件事都可以赋予特权,在心理层面上平等. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref20&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn21&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;对形而上学影响深远,因为暗示世界有秩序. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref21&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn22&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;荒谬者感受到类似柏拉图完美世界的平等感. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref22&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn23&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;每种形象都有一个平等的本质. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref23&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn24&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;强调平等,因此“将军”而非“士兵”. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref24&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn25&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;心理上感受到的世界深度,但实际上意义不存在. &lt;a href=&quot;https://example.com/blog/Philosophical%20Journal/2025-11-08-Philosophical-Journal-01/#fnref25&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </content>
   </entry>
 </feed>
