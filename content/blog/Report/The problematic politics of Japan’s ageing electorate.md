@@ -52,7 +52,7 @@ _本文为非商业性质的学习型翻译,原文版权归原作者所有._
 >This article is a **translation and thus a derivative work**. In order to respect the copyright of the original text, this translation is **not covered by the CC license**.  
 >Any reproduction, redistribution, or adaptation of this translated text requires **separate permission**.
 >
->- **Original Work**: This article is translated from “ ”. The original author is “ ”. All copyrights of the original text belong to the original author.
+>- **Original Work**: This article is translated from “[The problematic politics of Japan’s ageing electorate](https://eastasiaforum.org/2023/02/27/the-problematic-politics-of-japans-ageing-electorate/)”. The original author is “ Yasuo Takao”. All copyrights of the original text belong to the original author.
 >- **Translation Information**: Translated, reviewed, and published by Hatsumi. The translation reflects the original author’s views only. Any inaccuracies or interpretative errors in the translation are the responsibility of the translator.
 
 >- **Purpose of Use**: This translation is provided **solely for non-commercial purposes**, including personal study, academic research, and cultural exchange.
