@@ -41,10 +41,6 @@ _本文为非商业性质的学习型翻译,原文版权归原作者所有._
 
 **譯者附註**: 初次翻譯,品質與原文仍有極大差距,尚請見諒.
 
-
-
-
-
 **Copyright | Translation Notice | Special Statement**
 
 >**Important Notice (English Version)**  
@@ -70,10 +66,9 @@ _本文为非商业性质的学习型翻译,原文版权归原作者所有._
 
 
 
-[^1]:多数决策模型是将多数主义原则应用于具体的决策过程和公共选择理论中，尤其关注在特定投票机制下，集体偏好如何转化为最终政策。[WikipediaEN - Majoritarian Decision-Making Model](https://en.wikipedia.org/wiki/Majoritarianism) [↩︎](https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref1)
+[^1]:多数决策模型是将多数主义原则应用于具体的决策过程和公共选择理论中，尤其关注在特定投票机制下，集体偏好如何转化为最终政策。[WikipediaEN - Majoritarian Decision-Making Model](https://en.wikipedia.org/wiki/Majoritarianism) 
     
-[^2]:经济合作与发展组织的前身是 1947 年由美国和加拿大发起，成立于 1948 年的欧洲经济合作组织（Organisation for European Economic Co-operation，缩写为 OEEC），该组织成立的目的是帮助执行致力于第二次世界大战以后欧洲重建的马歇尔计划。后来其成员国逐渐扩展到非欧洲国家。1961 年，欧洲经济合作组织改名为经济合作与发展组织。[WikipediaCN - 经济合作与发展组织](https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E4%B8%8E%E5%8F%91%E5%B1%95%E7%BB%84%E7%BB%87) [↩︎](https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref2)
+[^2]:经济合作与发展组织的前身是 1947 年由美国和加拿大发起，成立于 1948 年的欧洲经济合作组织（Organisation for European Economic Co-operation，缩写为 OEEC），该组织成立的目的是帮助执行致力于第二次世界大战以后欧洲重建的马歇尔计划。后来其成员国逐渐扩展到非欧洲国家。1961 年，欧洲经济合作组织改名为经济合作与发展组织。[WikipediaCN - 经济合作与发展组织](https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E4%B8%8E%E5%8F%91%E5%B1%95%E7%BB%84%E7%BB%87) 
     
-[^3]:中间选民定理（英语：Median voter theorem）是邓肯·布莱克在 1948 年提出的一个与选择排序投票有关的模型。它指出，如果选民和候选人的政治光谱可以用一维坐标来表示，选民再根据候选人与自己的政治立场接近程度进行排序投票，并且投票规则为孔多塞投票法，那么立场最接近中间选民的候选人将会当选。[WikipediaCN - 中间选民定理](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E9%80%89%E6%B0%91%E5%AE%9A%E7%90%86) [↩︎](https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref3)
-    
-[^4]:代际公平,也称作代际平等.经济、心理和社会学背景下的代际公平指的是几代人之间的公平或正义。这个概念除了可以描述儿童、青少年、成人和老年人之间的动态公平之外，也可以描述当前一代与未来几代人之间的公平. 在 Wikipedia 上查看: [WikipediaCN - 代际平等](https://zh.wikipedia.org/wiki/%E4%BB%A3%E9%99%85%E5%B9%B3%E7%AD%89) | [WikipediaEN - intergenerational equity](https://en.wikipedia.org/wiki/Intergenerational_equity) [↩︎](https://kirish1ma.github.io/2025/12/10/FaithWitness-Reposts-2025-12-10-The-problematic-politics-of-Japan%E2%80%99s-ageing-electorate/#fnref4)
+[^3]:中间选民定理（英语：Median voter theorem）是邓肯·布莱克在 1948 年提出的一个与选择排序投票有关的模型。它指出，如果选民和候选人的政治光谱可以用一维坐标来表示，选民再根据候选人与自己的政治立场接近程度进行排序投票，并且投票规则为孔多塞投票法，那么立场最接近中间选民的候选人将会当选。[WikipediaCN - 中间选民定理](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E9%80%89%E6%B0%91%E5%AE%9A%E7%90%86) 
+[^4]:代际公平,也称作代际平等.经济、心理和社会学背景下的代际公平指的是几代人之间的公平或正义。这个概念除了可以描述儿童、青少年、成人和老年人之间的动态公平之外，也可以描述当前一代与未来几代人之间的公平. 在 Wikipedia 上查看: [WikipediaCN - 代际平等](https://zh.wikipedia.org/wiki/%E4%BB%A3%E9%99%85%E5%B9%B3%E7%AD%89) | [WikipediaEN - intergenerational equity](https://en.wikipedia.org/wiki/Intergenerational_equity) 
