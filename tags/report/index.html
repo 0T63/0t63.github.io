@@ -40,11 +40,12 @@
 <body>
   <script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
   <script>
-    new cursoreffects.ghostCursor({
-    image: "https://www.cursor.cc/cursor/820/63/cursor.png"
+    window.addEventListener("load", () => {
+    new cursoreffects.ghostCursor();
   });
-</script>
+    
 
+</script>
 <a href="#main-content" class="skip-to-content">Skip to content</a>
 <div class="fixed-top text-center p-1 trans">
 <button class="btn btn-dark small rounded-pill" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustom" aria-expanded="false" aria-controls="collapseCustom" aria-label="Customize">
@@ -267,3 +268,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </body>
 </html>
+
+
+
