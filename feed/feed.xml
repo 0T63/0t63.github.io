@@ -45,8 +45,8 @@
 &lt;p&gt;説到底,我還是想知道,有沒有一種可能.我們能從純官方敘事與壓抑的&amp;quot;不剪輯&amp;quot;錄像中找到一個張力點,從而真正的展現出獨屬於人類的張力呢&lt;/p&gt;
 &lt;h2 id=&quot;12-22&quot; tabindex=&quot;-1&quot;&gt;12点22分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#12-22&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;今天準備在遠程主機那邊跑的情輕型模型,4060這顯存要精打細算著用才行…我看看有什麽JavaScript比較出色清轻量模型吧.一天可能搞不完,畢竟沒接觸過…看朋友讓ai用RUST語言迅速開發部署一個在綫平臺是覺得夠方便的&lt;/p&gt;
-&lt;h2 id=&quot;12-29&quot; tabindex=&quot;-1&quot;&gt;12点29分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#12-29&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;後日談:我在現在好像才看懂我引用的那段話想説什麽,她通過簡單製造了&amp;quot;真相被埋沒&amp;quot;來讓看到這段話的人得到了&amp;quot;我看清了世界的真相這樣的廉價憤怒與對認清&amp;quot;真相&amp;quot;的爽感,這種爽感是不需要付出心智負擔的,不需要經過思考的…至於剩下的我就不提了(PS:個人觀點,請勿輕信,謝謝.还有,貌似三级标题对二级标题并不明显,至少不像Hexo＋NexT那样,以后如果要补充还是写在下面吧…因为我都是 Obsidian 写code＋git稍微编辑一下直接push CI/CD了…)&lt;/p&gt;
+&lt;h2 id=&quot;13-38&quot; tabindex=&quot;-1&quot;&gt;13点38分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-01/#13-38&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;無聊的時候總是會思考自己一天幹了什麽,我現在的評價是:又躺尸一整天…沒話講了,提不起勁來學習…每到這種時候我就要開始下意識地審視我自己了&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -79,7 +79,7 @@
 </content>
   </entry>
   <entry>
-    <title>一些瑣碎的思考</title>
+    <title>一些瑣碎的思考 2026-01-30</title>
     <link href="https://example.com/blog/Log/2026-01-30/" />
     <updated>2026-01-30T00:00:00Z</updated>
     <id>https://example.com/blog/Log/2026-01-30/</id>
@@ -123,6 +123,144 @@ Nix → &quot;数学式可复现&quot;，它从系统设计角度定义了因果
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;或許哪天我在用Nix時意識到,我已經三個月沒有修復過環境依賴,我才會意識到 Nix / NixOS 有多好用 哈哈哈&lt;/p&gt;
 &lt;p&gt;先這樣吧,看會書,最近都沒怎麽看過書了,挪威的森林還沒看完…&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title></title>
+    <link href="https://example.com/blog/Log/2026-01-29/" />
+    <updated>2026-01-29T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2026-01-29/</id>
+    <content type="html">&lt;h2 id=&quot;00-50&quot; tabindex=&quot;-1&quot;&gt;00点50分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-29/#00-50&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;我現在托管的代碼一般來說是遠程ssh服務器搞,但是我剛才想起來我已經配置好完整CI/CD了,所以我完全可以把倉庫源代碼clone到主電腦而不是我的VPS&lt;/p&gt;
+&lt;p&gt;因爲CI/CD能把依賴全部放在雲端,我用VPS的很大原因就是因爲煩人的依賴.環境配置(我甚至不想在主力電腦安裝WSL,docker引擎).不過其實繼續用VPS也能接受,win的終端實在不是很喜歡.習慣Linux的操作終端了.主電腦保存數據備份以備不時之需,平時偶爾pull一下遠程的更新.&lt;/p&gt;
+&lt;p&gt;講真的,軟件搞久了我想玩玩硬件,比如樹莓派,刷Linux儅本地VPS??哈哈哈哈這個想法,總之就是兜裏隨時留著一個樹莓派,這玩意用處很多,平時有需求網綫一插,甚至手機tumx局域網連接樹莓派也行,我對主要使用的設備環境很有電子潔癖hhh,我之前有個朋友就設想過給樹莓派外裝一個超小型屏幕,能夠顯示終端信息就行.這下真的變成刻板印象的黑客了hahahaha&lt;/p&gt;
+&lt;p&gt;就是,你知道嗎?樹莓外裝一個wifi模塊,連接上網絡那就能連接上tailscale(這個是設想,我在想或許也能接網綫)然後連接遠程VPS,你能簡單控制遠程服務器容器的停止與啓動.或者外接一個微型電池.這樣真的很GEEKhhh&lt;/p&gt;
+&lt;p&gt;有很多時候我就會被我這些奇思妙想的可行性搞的很激動,我感覺整個世界都活過來了&lt;/p&gt;
+&lt;p&gt;不過也是時候給自己澆一盆冷水,如果一个人永远在兴奋里,那多半是没落地.如果一个人从不兴奋,那多半是只在重复.別到時候喧賓奪主一味的追求這種刺激感,純粹的空想,到最後一事無成&lt;/p&gt;
+&lt;p&gt;我先仔細想想我最開始的想法,實際上真做出來并不會給自己增加多少便利性,hmm本質上其實只是爲了嘗嘗鮮.其實我大概是在那種極端情況下的設想,比如快過年了,回老家電腦肯定不會經常帶.&lt;/p&gt;
+&lt;p&gt;實際上呢,我還有另一個有意思的方案,我現在手上有一臺電池GG的ThinkPad X220.我可以刷一個Ubuntu,再換個電池就真的能夠變成生產力工具(遠程連接VPS),真的能爲我提供便利,畢竟主力電腦肯定不能隨便帶出去,而X220 這個價格和品質隨便我亂造&lt;/p&gt;
+&lt;p&gt;先把這兩個計劃放進備忘錄先,X220先進我的首要計劃清單[[備忘錄]]&lt;/p&gt;
+&lt;h2 id=&quot;02-48&quot; tabindex=&quot;-1&quot;&gt;02点48分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-29/#02-48&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;我還有一部閑置手機能夠拿來玩玩,但是不多,安卓開源生態真不是我的領域&lt;/p&gt;
+&lt;h2 id=&quot;02-53&quot; tabindex=&quot;-1&quot;&gt;02点53分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-29/#02-53&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;冷靜下來之後想想我之前的念頭感覺還挺幼稚的,也不能説是幼稚,算是被興奮衝昏了頭腦吧.&lt;/p&gt;
+&lt;h2 id=&quot;03-39&quot; tabindex=&quot;-1&quot;&gt;03点39分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-29/#03-39&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;凌晨三點半了,今天晚上注意力全被這三件事勾走了,x220,樹莓派與手機改造.雖然也學了點東西.感覺空落落的,睡一會吧&lt;/p&gt;
+&lt;h2 id=&quot;18-12&quot; tabindex=&quot;-1&quot;&gt;18点12分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-29/#18-12&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;![[Pasted image 20260129181239.png]]&lt;/p&gt;
+&lt;p&gt;Thx for the open-source project 😌&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title></title>
+    <link href="https://example.com/blog/Log/2026-01-28/" />
+    <updated>2026-01-28T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2026-01-28/</id>
+    <content type="html">&lt;h2 id=&quot;02-04&quot; tabindex=&quot;-1&quot;&gt;02点04分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-28/#02-04&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;今天給服務器配置了ssh, 至於需要記住的教程什麽的我已經記載另外的筆記裏面的[[SSH常用命令]]&lt;br&gt;
+在這裏記幾個容易忘記的,Linux在用戶公鑰処文件必須是authorized_keys.不能是別的,否則無法識別&lt;/p&gt;
+&lt;p&gt;我想想還有什麽,貌似沒了,別的都記在另一個筆記裏面了&lt;/p&gt;
+&lt;p&gt;ssh-keygen -t 選擇加密形式,一般是ed25519 -f 則是指定名稱,比如 ~/.ssh/%NAME%&lt;/p&gt;
+&lt;p&gt;搞了兩個小時才搞這麽點,不過至少是學會ssh配置了…&lt;/p&gt;
+&lt;p&gt;該睡了,困&lt;/p&gt;
+&lt;p&gt;哦對,~/.ssh 和 authorized_keys 的权限如果太“慷慨”會被拒絕,有時候因爲這個報錯了可能都不會給你明確的理由就是&lt;/p&gt;
+&lt;p&gt;所以記得&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;沒想到我能記得修改權限的命令hhh&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;~/.ssh&lt;/code&gt; 目录: 只有自己能进入和查看 -&amp;gt; 700&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;authorized_keys&lt;/code&gt; 文件: 只有自己能读写 -&amp;gt; 600&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;16-36&quot; tabindex=&quot;-1&quot;&gt;16点36分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-28/#16-36&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;網易雲這個懶這個逆天啊,專門設置了一個很垃圾的webplayer用於給第一次瀏覽的用戶用,逼迫用戶下載應用,實際上真正現代化的ui需要你在下載頁面點擊Linux版,直接把你重定向到網易雲現代化web頁面,要不是想看看Linux,我都不會發現.還有網易雲連Linux桌面應用都懶得開發我也是醉了&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://music.163.com/st/webplayer&quot;&gt;网易云音乐&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;21-26&quot; tabindex=&quot;-1&quot;&gt;21点26分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-28/#21-26&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;今天早啊,今天確實早,早早把11ty博客的Ci/CD自動化流程搞好了,其實説來也很簡單,也就是11ty源文件 ＋ GitHub action workflow 本地修改源文件 push 到倉庫直接幫你構建,只要熟悉了説實在的技術含量真不高.&lt;/p&gt;
+&lt;p&gt;由於偷懶我直接把dockerfile省下來了,畢竟現階段確實沒啥用…&lt;/p&gt;
+&lt;p&gt;還差一個Hexo,説實話準備換了,但是貌似還是Hexo好用.Hexo也准備CICD工作流直接平推了,畢竟真的好爽.&lt;/p&gt;
+&lt;h2 id=&quot;21-39&quot; tabindex=&quot;-1&quot;&gt;21点39分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-28/#21-39&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;今天結束的有點早了,現在不知道該幹什麽了,繼續學?説實在的好像沒興致繼續了…&lt;/p&gt;
+&lt;h2 id=&quot;21-53&quot; tabindex=&quot;-1&quot;&gt;21点53分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-28/#21-53&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;算了還是繼續吧.提起精神來!&lt;/p&gt;
+&lt;p&gt;學了一會看了一下之前搞的HomePage.我真要好好學習一下GitHub工作流的語法了&lt;/p&gt;
+&lt;p&gt;今天就忙到這裏,看會書吧&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title></title>
+    <link href="https://example.com/blog/Log/2026-01-26/" />
+    <updated>2026-01-26T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2026-01-26/</id>
+    <content type="html">&lt;h2 id=&quot;22-21&quot; tabindex=&quot;-1&quot;&gt;22點21分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-26/#22-21&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;今天特地回去一趟把倉庫電腦配置好.現在有一台能用的VPS了,準備買個U搞裝機盤.版本就選Ubuntu 22.04 LTS 了.畢竟是現在最新的穩定版.&lt;/p&gt;
+&lt;p&gt;咽喉炎好了一點,但是感冒貌似沒有,沒去看過醫生開感冒藥畢竟不嚴重,過幾天估計就自癒了.倒杯熱水吧.&lt;/p&gt;
+&lt;p&gt;差點忘了,記錄一下我的三個網站.兩個博客就不多贅述直接重開了,但是個人主頁不一樣.那個Homepage我現在選擇把源文件直接上傳到倉庫再GitHub action構建靜態文件並推送,到時候需要修改直接clone到本地,然後再修改push就可以了,你還記得git的那些命令吧?應該還記得,無非是那幾個&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# 新增所有修改的檔案到暫存區&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; &lt;span class=&quot;token builtin class-name&quot;&gt;.&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# 查看當前檔案狀態&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; status
+
+&lt;span class=&quot;token comment&quot;&gt;# 提交修改，&quot;XXXXX&quot; 可替換為提交訊息&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; commit &lt;span class=&quot;token parameter variable&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;XXXXX&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# 切換分支&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; switch
+
+&lt;span class=&quot;token comment&quot;&gt;# 查看分支列表&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; branch
+
+&lt;span class=&quot;token comment&quot;&gt;# 新增遠端倉庫&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; remote &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;名稱&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;倉庫地址&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# 查看遠端倉庫&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; remote &lt;span class=&quot;token parameter variable&quot;&gt;-v&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# 查看提交歷史&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; log
+
+&lt;span class=&quot;token comment&quot;&gt;# 拉取遠端修改&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; pull
+
+&lt;span class=&quot;token comment&quot;&gt;# 推送本地修改到遠端&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; push
+
+&lt;span class=&quot;token comment&quot;&gt;# 克隆遠端倉庫&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; clone &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;倉庫地址&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# 新建分支並切換&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; switch &lt;span class=&quot;token parameter variable&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;分支名&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;還有別的巴拉巴拉的就是今天先這樣.實在懶得動了.到時候那個搞到的ThinkPad X220,刷個Ubuntu 22.04 LTS [[2026-01-25#22點31分]]不要忘記這電腦的電池超爛的一拔掉電綫就會坏.&lt;/p&gt;
+&lt;p&gt;哦對對對.以後那幾個博客我也准備腫麽弄,都用GitHub Action構建並推送了,這種CI/CD真的超方便&lt;/p&gt;
+&lt;h2 id=&quot;22-41&quot; tabindex=&quot;-1&quot;&gt;22点41分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-26/#22-41&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;其實本來今天多讀會書的,沒什麽興致倒是,就讀了魯迅的幾篇信件.這種冷門的信件真的是很好的體現了名人的生活快照啊hh,一邊是家庭的關懷,另一邊是工作兩不誤.&lt;/p&gt;
+&lt;h2 id=&quot;22-52&quot; tabindex=&quot;-1&quot;&gt;22点52分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-26/#22-52&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;話説回來,這個X220的系統貌似是二代i5還是什麽,雙核也太像linux的那種網絡虛擬主機了…有點想笑,其實哪些大廠的VPS主機室是無數台ThinkPad X220組成的XDDDDD&lt;/p&gt;
+&lt;h2 id=&quot;23-11&quot; tabindex=&quot;-1&quot;&gt;23点11分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-26/#23-11&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;有時候我也知道,我的生活其實挺憂鬱的.平常在家一個人除了看電腦就只有我的狗在陪我了.有時候覺得我家狗子真倒霉,跟了我這個主人就是,平時什麽社交也沒有就是宅在家裏.今天可真冷啊…畢竟冬天了嘛.想問候每個曾經對我好的人,有沒有好好吃飯,有沒有穿好衣服?感冒了可真就要像我一樣難受了就是.忘記倒水了.暖暖的水杯很暖手.晚上就容易想這些東西啊,其實是因爲氛圍到了hhh.不行,肚子餓了.想點外賣咩&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title></title>
+    <link href="https://example.com/blog/Log/2026-01-25/" />
+    <updated>2026-01-25T00:00:00Z</updated>
+    <id>https://example.com/blog/Log/2026-01-25/</id>
+    <content type="html">&lt;h2 id=&quot;22-31&quot; tabindex=&quot;-1&quot;&gt;22点31分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-25/#22-31&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;好無聊,遂寫篇日記,大概是用來記錄記錄最近的生活…本來我有一臺WSl僞服務器能跑Linux服務來著.但是我拿去我爸倉庫那會充值系統忘記保存重要數據,導致數據全沒了,博客啥的…真可惜了…前後兩個星期來來回回一直沒搞好,現在搞好了(沒完全好),我把閑置的ThinkPad X220給拿到傢了,準備刷個Linux Ubuntu 來著.拿來跑VPS,其實確實挺合適的,查了一下CPU是二代i3,差不多是二核的配置&lt;a href=&quot;https://zh.wikipedia.org/wiki/ThinkPad_X%E7%B3%BB%E5%88%97&quot;&gt;ThinkPad X系列 Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;倒也真是適合作爲VPS,平時放在桌面顔值也夠打就是…目前大概有兩臺VPS,一臺是wsl僞服務器(4060+R7 7435)還有一臺就是ThinkPad X220了.&lt;/p&gt;
+&lt;p&gt;不知道還有什麽好傾訴在這裏的,畢竟只是我的日記本,我一直不知道爲什麽寫下來會舒服&lt;/p&gt;
+&lt;p&gt;喉嚨有點痛,快放假了,倒杯熱水吧先&lt;/p&gt;
+&lt;h2 id=&quot;22-44&quot; tabindex=&quot;-1&quot;&gt;22点44分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-25/#22-44&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;剛倒完水,捂著杯子很暖和.暖暖肚子也,天氣真冷啊…![[1277f481ca31ed3c98e85eb448134897.jpg]]&lt;br&gt;
+前幾天更冷,體感溫度甚至能-2℃,冷的要死哇&lt;/p&gt;
+&lt;p&gt;我想想倒是沒什麽能講的了.不知道以後會不會養成經常寫筆記的習慣就是.看書去好了,最近在看史蒂芬金的小説,可惜不知道爲什麽他的短篇小説很少很少有中文翻譯引進,只能啃原文啦…&lt;/p&gt;
+&lt;p&gt;手真暖和.下次見&lt;/p&gt;
+&lt;h2 id=&quot;23-00&quot; tabindex=&quot;-1&quot;&gt;23点00分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-01-25/#23-00&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;對了,因爲現在VPS都墜機,所以最近都挺無聊的,因爲沒有VPS用鏈接不了遠程主機…本地不想裝開發環境就是,污染起來超級麻煩…就這樣吧,喉嚨還是有點疼&lt;/p&gt;
 </content>
   </entry>
 </feed>
