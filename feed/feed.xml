@@ -95,6 +95,8 @@ Any reproduction, redistribution, or adaptation of this translated text requires
 &lt;h2 id=&quot;05-53&quot; tabindex=&quot;-1&quot;&gt;05点53分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-02/#05-53&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;给博客添加了鼠標效果.來自&lt;a href=&quot;https://github.com/tholman/cursor-effects&quot;&gt;tholman/cursor-effects: Old-school cursor effects for your browser built with modern JavaScript&lt;/a&gt;.這作者真夠粗心的,示例1的ghost cursor的大括號都沒閉合…沒有人類了.不過還是謝謝你的開源項目 : )&lt;/p&gt;
 &lt;p&gt;切換了舊版微軟輸入法,現在沒有莫名其妙奇幻到全角輸入的奇葩問題了.跟windows更新一個尿性…&lt;/p&gt;
+&lt;h2 id=&quot;06-20&quot; tabindex=&quot;-1&quot;&gt;06点20分 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Log/2026-02-02/#06-20&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;手機termux能不能安裝git?如果要push到遠程倉庫,比如GitHub,除了SSH還能怎麽登陸?我看了一下的確能夠安裝Git,一般來説遠程倉庫用的基本都是GitHub,我想一下現在登錄的形式有哪些,一般來説: &lt;code&gt;SSH key&lt;/code&gt; &lt;code&gt;PAT密碼&lt;/code&gt; 或者説 &lt;code&gt;GitHub CLI&lt;/code&gt;?我覺得前兩個比較簡單SSHkey我比較熟悉,但是PAT點幾下就能上綫了.確實簡單.obsidian一邊寫博客手機甚至能git直接add commit push直接上傳,CI/CD直接構建push.網站上綫,不過有個坑,手機更新之後電腦的數據會落後,你最好電腦更新之前pull一下,手機同理.完蛋完蛋我得趕緊起床去上班/上學&lt;/p&gt;
 </content>
   </entry>
   <entry>
