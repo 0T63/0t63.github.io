@@ -8,8 +8,8 @@ tags:
   - Report 
 ---
 
-_This article is a non-commercial translation for learning purposes only. Copyright of the original work remains with the original author._  
-_本文为非商业性质的学习型翻译,原文版权归原作者所有._
+_Special Statement: This translated article is excluded from the CC BY-NC-SA 4.0 license stated in this blog’s footer. All rights in the original work remain with the original copyright holder._  
+_特别说明:本文为翻译作品,不适用本站页脚所声明的 CC BY-NC-SA 4.0 知识共享协议,原文相关权利归原版权方所有._
 
 在 2021 年的眾議院投票選舉中,由於投票者年齡中位數為 59 歲,政策投票的重心逐漸從納稅群體轉移至退休人群.隨著人口老齡化,政策可能更傾向於老年群體利益的趨勢逐漸顯現.
 
@@ -41,20 +41,26 @@ _本文为非商业性质的学习型翻译,原文版权归原作者所有._
 
 **譯者附註**: 初次翻譯,品質與原文仍有極大差距,尚請見諒.
 
-**Copyright | Translation Notice | Special Statement**
+# Copyright | Translation Notice | Special Statement
 
->**Important Notice (English Version)**  
->The CC BY-NC-SA 4.0 license stated in this blog’s footer applies **only to original content published on this site**.  
->This article is a **translation and thus a derivative work**. In order to respect the copyright of the original text, this translation is **not covered by the CC license**.  
->Any reproduction, redistribution, or adaptation of this translated text requires **separate permission**.
->
->- **Original Work**: This article is translated from “[The problematic politics of Japan’s ageing electorate](https://eastasiaforum.org/2023/02/27/the-problematic-politics-of-japans-ageing-electorate/)”. The original author is “ Yasuo Takao”. All copyrights of the original text belong to the original author.
->- **Translation Information**: Translated, reviewed, and published by Hatsumi. The translation reflects the original author’s views only. Any inaccuracies or interpretative errors in the translation are the responsibility of the translator.
+The CC BY-NC-SA 4.0 license stated in this blog’s footer applies solely to original content published on this site, unless otherwise specified.
 
->- **Purpose of Use**: This translation is provided **solely for non-commercial purposes**, including personal study, academic research, and cultural exchange.
->- **Copyright Concerns**: If the copyright holder believes that this translation infringes upon their rights, please contact us using the information below. We will respond and take appropriate action promptly.
->- **Contact**: k1rishima@proton.me
-    
+This article is a translation and therefore constitutes a derivative work of the original text. In order to respect the copyright of the original work and its rights holder, this translation is **not** licensed under the CC BY-NC-SA 4.0 license. Any reproduction, redistribution, or adaptation of this translated text requires separate permission from the relevant copyright holder(s).
+
+**Original Work:**  
+This article is translated from *“The problematic politics of Japan’s ageing electorate”* by Yasuo Takao. Copyright in the original text remains with the original copyright holder.
+
+**Translation Information:**  
+Translated, reviewed, and published by Hatsumi. The translation reflects the original author’s views only. Any inaccuracies, omissions, or interpretative errors introduced in the translation are the sole responsibility of the translator.
+
+**Purpose of Publication:**  
+This translation is provided for non-commercial purposes such as personal study, academic research, and cultural exchange only. This statement does not constitute a license for reuse.
+
+**Copyright Concerns:**  
+If you believe that this translation infringes upon your rights, please contact us using the information below. We will respond promptly and take appropriate action.
+
+**Contact:**  
+k1rishima@proton.me
 
 ---
 

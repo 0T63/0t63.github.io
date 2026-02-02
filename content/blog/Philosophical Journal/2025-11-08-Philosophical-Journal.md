@@ -5,7 +5,7 @@ date: 2025-11-08
 # updated:
 description: 
 tags:
-  - Philosophical Journal
+  - Philosophical_Journal
 ---
 
 <!-- 
