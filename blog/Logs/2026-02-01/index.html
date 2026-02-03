@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tagged &#39;log&#39;</title>
-<meta content="Tagged &#39;log&#39;" property="og:title">
-<meta content="Tagged &#39;log&#39;" name="twitter:title">
-<meta content="Tagged &#39;log&#39;" name="title">
-<meta content="Tagged &#39;log&#39;" property="og:site_name">
+<title>日志 2026-02-01</title>
+<meta content="日志 2026-02-01" property="og:title">
+<meta content="日志 2026-02-01" name="twitter:title">
+<meta content="日志 2026-02-01" name="title">
+<meta content="日志 2026-02-01" property="og:site_name">
 <meta content="Just Blog" name="description">
 <meta content="Just Blog" property="facebook:description">
 <meta content="Just Blog" property="og:description">
@@ -22,14 +22,182 @@
 <meta content="" property="twitter:author">
 <meta content="" name="twitter:site">
 <meta property="og:type" content="website">
-<link rel="canonical" href="https://0t63.github.io//tags/log/">
+<link rel="canonical" href="https://0t63.github.io//blog/Logs/2026-02-01/">
 <link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="Blog">
 <meta name="language" content="zh-cn">
 <meta name="locale" content="en_US">
 <meta property="og:locale" content="en_US">
 <meta name="generator" content="Eleventy v3.1.2"> 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","description":"Just Blog","headline":"Blog - Just Blog","name":"Blog","url":"https://0t63.github.io//tags/log/"}</script>
-<style>@charset "UTF-8";/*!
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","description":"Just Blog","headline":"Blog - Just Blog","name":"Blog","url":"https://0t63.github.io//blog/Logs/2026-02-01/"}</script>
+<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+@charset "UTF-8";/*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
  * Copyright 2011-2024 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
@@ -165,60 +333,68 @@ Blog</strong></a>
 </nav>
 
 <main id="main-content">
+
 <div class="container">
 <div class="row">
 <div class="col-md-7 p-3 p-md-5 mx-auto">
 <header class="text-center mb-5">
-<h1 class="display-4 header-title" id="tagged-log">Tagged “log”</h1>
+<h1 class="display-4 header-title" id="2026-02-01">日志 2026-02-01</h1>
+<h2 class="lead"></h2>
+
+<p>By <a href="/about/">Hatsumi</a> <time datetime="2026-02-01">01 February 2026</time></p>
+<p class="small mb-5"><small><a href="/tags/log/">log</a> </small></p>
 </header>
+<article class="mb-5">
 
+<h2 id="01-38" tabindex="-1">01点38分 <a class="header-anchor" href="#01-38"></a></h2>
+<p>心情並不是很好.正在找一個充電器,我想用來給手錶衝下電</p>
+<h3 id="01-51" tabindex="-1">01点51分 <a class="header-anchor" href="#01-51"></a></h3>
+<p>剛找到,原來是它剛才心情不好…藏在枕頭下面了.</p>
+<h2 id="02-39" tabindex="-1">02点39分 <a class="header-anchor" href="#02-39"></a></h2>
+<p>沒什麽事情做,這種大腦在進行低功耗空轉的姿態很惹人厭煩.最近確實沒什麽事情可做了…短期内能刺激我的想法,剩下的只是平淡無味,兩點一綫的學習日常.照這麽下去我也不知未來是什麽樣了…不過未來什麽樣我也早就無所謂了.畢竟是我曾經想過無數遍的事.很多次我都想過,這種報復性熬夜的好處在哪裏,我用這點消耗身體的時間做了什麽有意義的事情了嗎?除了發呆熬夜,還有什麽?好像確實沒什麽了…顯示器的燈光好亮,亮到我看不清周圍的物體…顯示器的燈光好暗,暗到我看不清未來的路在哪.熬夜到底在提供什麽呢,或許是讓我暫時不需要對明天負責的逃避,亦或者我只是享受著片刻的虛假自由…先想這麽多吧.</p>
+<h2 id="03-04" tabindex="-1">03点04分 <a class="header-anchor" href="#03-04"></a></h2>
+<p>實際上,還是熬了很久</p>
+<h2 id="06-05" tabindex="-1">06点05分 <a class="header-anchor" href="#06-05"></a></h2>
+<p>是的,現在已經六點了.你猜我爲什麽不睡?單純不想…沒什麽事可做.算了還是睡了吧.</p>
+<h2 id="07-07" tabindex="-1">07点07分 <a class="header-anchor" href="#07-07"></a></h2>
+<p>靈感突然迸發,遂起床寫點東西,也不能説是靈感的東西.想到了挺久之前看作爲洛夫克拉夫特書迷時的作品,雖然我現在更喜歡 Poe ,hh,有段話:</p>
+<blockquote>
+<p>永远长眠的未必是死亡，<br>
+经历奇异万古的亡灵也会死去。</p>
+</blockquote>
+<p>剛看那會我並不能感受到什麽,最多也就是科幻,怪奇.并沒有什麽特別的實感…當時還沒有接觸過存在主義,也沒有腦子裏現在的那一堆問題,當現在我基本什麼時候都被存在主義焦慮纏著的時候我才看清這句話的意思.存在主義焦慮的出現,讓我直接站在了風暴眼裏.這時的同一句話就不再是所謂的&quot;宇宙恐怖&quot;,而是真真切切的存在焦慮,虛無主義.真正切實的落到了個人經驗的層面上,沒有什麽選擇是安全的,你選擇的不了不去選擇,因爲你選擇了不去選擇實際上也是一種選擇不是麽?你被被迫面對你最不想接受的結局.于是你才真正读懂了它.從存在主義看這句話,其實很像加繆和薩特,只是角度不同,他們同樣否認終極避難所,永恆并不拯救你,也不存在終極意義,意義并不是被發現,而是被迫承擔. ^073c16</p>
+<p>不過我現在嘛.我也不好説.像是已經習慣了,存在主义不是让人反复凝视深渊,而是承认深渊存在,然后仍然决定每天做什么.看清楚世界的無意義與放棄生活并不劃等號.多著手當下,而不是被宏大宇宙敘事壓倒.亦或者是因長時間滯留在虛無主義的籠罩之下被世界沒有意義的念頭不斷自我複製的恐懼壓倒</p>
+<p>冷!冷!冷!<br>
+舞!舞!舞!</p>
+<h2 id="11-39" tabindex="-1">11点39分 <a class="header-anchor" href="#11-39"></a></h2>
+<p>congratulations!..今天共計睡眠時間32分鐘,超過了全球1%人的睡眠時間…沒話講…</p>
+<h2 id="11-48" tabindex="-1">11点48分 <a class="header-anchor" href="#11-48"></a></h2>
+<p>“你現在出門,扛台攝像機,或者拿部好點兒的手機,隨便找個外賣小哥,流水線普工,環衛工,貧困學生等,幫你拍部紀實版的紀錄片.你甚至都不需要剪輯,不需要解說旁白,不需要濾鏡,不需要任何的後期製作處理,只需要把鏡頭擺在那裡,記錄下他們真實的日常生活.之後你就會得到一樣東西一部禁片.” ^a449a8</p>
+<p>雖然我感覺沒那麼誇張,不過諷刺效果達到了,仿佛某些所謂的真相一定是見不得人的</p>
+<p>我知道,攝像機天然偏向壓抑,這是一個結構性困境.壓抑就像我前面所講述的,它持續,可見,穩定存在于生活之中;但建構則是相反的存在,它零散,破碎,需要你費盡心神瞭解一個人才能知道那在旁人看來似乎&quot;毫無意義&quot;的建構對於一個對你而言仿佛&quot;素昧平生&quot;的人的重要性.所以攝像機并不天然&quot;中性&quot;,他并不會因爲你:“不剪輯”,“無配樂”,就真實.</p>
+<p>現在可以引出另一種極端,官方敘事,在國家敘事語境中,仿佛成功都是唾手可得的,我並不是批判什麽社會的問題.出於穩定性考慮,在系統化的省略成功前的困難,不確定與掙扎時就會變成片面的,空洞的官方敘事.</p>
+<p>我指出這兩點並不是因爲我覺得我很厲害,更不是我能從所謂的&quot;真實&quot;裏看到什麽是真理.我只是想思考一件事,無論你是選擇持續性的拍攝壓抑,亦或者是選擇性的展示建構,這是否都是一種姿態的確立呢?你想表達的是現實,還是你已經選擇好了的,預設的結論?</p>
+<p>説到底,我還是想知道,有沒有一種可能.我們能從純官方敘事與壓抑的&quot;不剪輯&quot;錄像中找到一個張力點,從而真正的展現出獨屬於人類的張力呢</p>
+<h2 id="12-22" tabindex="-1">12点22分 <a class="header-anchor" href="#12-22"></a></h2>
+<p>今天準備在遠程主機那邊跑的情輕型模型,4060這顯存要精打細算著用才行…我看看有什麽JavaScript比較出色清轻量模型吧.一天可能搞不完,畢竟沒接觸過…看朋友讓ai用RUST語言迅速開發部署一個在綫平臺是覺得夠方便的</p>
+<p>日後記:我才想清楚,或許那篇有關紀錄片的暴論是爲了激起廉價的憤怒感,它讓看到這段話的人們獲得到了一種廉價的,沒有心智負擔的真相感.</p>
+<h2 id="13-38" tabindex="-1">13点38分 <a class="header-anchor" href="#13-38"></a></h2>
+<p>無聊的時候總是會思考自己一天幹了什麽,我現在的評價是:又躺尸一整天…沒話講了,提不起勁來學習…每到這種時候我就要開始下意識地審視我自己了</p>
 
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-02-03"><a href="/blog/Logs/2026-02-03/">日志 2026-02-03</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-03">February 2026</time></p>
 </article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-02-02"><a href="/blog/Logs/2026-02-02/">日志 2026-02-02</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-02">February 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-02-01"><a href="/blog/Logs/2026-02-01/">日志 2026-02-01</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-01">February 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-01-31"><a href="/blog/Logs/2026-01-31/">日志 2026-01-31</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-01-31">January 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-01-30"><a href="/blog/Logs/2026-01-30/">一些瑣碎的思考 2026-01-30</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-01-30">January 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-01-29"><a href="/blog/Logs/2026-01-29/">日志 2026-01-29</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-01-29">January 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2025-11-17"><a href="/blog/Logs/2025-11-17/">日志 2025-11-17</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2025-11-17">November 2025</time></p>
-</article>
-
-
-<div class="border-top row p-3">
-<p class="text-center p-3">
-<a href="/blog" class="btn btn-dark btn-lg rounded-pill col-12 col-md-5 p-3 shadow">Explore all Post</a>
-</p>
+</div>
+<div class="col-10 mx-auto border-top border-bottom row p-3">
+<div class="col-6 border-end">
+<p><a href="/blog/Logs/2026-01-31/" class="display-4">← Prev </a></p>
+</div>
+<div class="col-6 text-end border-start">
+<p><a href="/blog/Logs/2026-02-02/" class="display-4">Next →</a></p>
 </div>
 </div>
 </div>
+</div>
 
-
-</div></main>
+</main>
 <footer class="container mt-3 text-center">
 <p>© 2026 <a href="/about/">Hatsumi</a>. All rights reserved.</p>
 <p>Copyright Notice: Unless otherwise stated, the content of this blog is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> license.</p>
