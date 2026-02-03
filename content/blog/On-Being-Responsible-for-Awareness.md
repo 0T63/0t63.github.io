@@ -1,10 +1,11 @@
 ---
 title: 論清醒之責
 author: Hatsumi
-date: 21960-01-04
+date: 1960-01-04
 description:
 tags:
   - Awareness
+era: 1000
 ---
 於此,記錄我的思考碎片,旨于我以後回顧.批判我當時的想法.
 
