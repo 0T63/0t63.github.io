@@ -1,11 +1,11 @@
 ---
 title: 日本选民老龄化带来的政治问题
-author: 
+author:
 date: 2025-11-30
 # updated:
 description: 日本首相岸田文雄在 2023 年日本國會開幕式上發表政策演說,宣布日本正因人口危機而處於無法維持基礎社會功能的邊緣.日本社會的年齡中位數為 49 歲,位居世界第二.
 tags:
-  - Report 
+  - Report
 ---
 
 _Special Statement: This translated article is excluded from the CC BY-NC-SA 4.0 license stated in this blog’s footer. All rights in the original work remain with the original copyright holder._  
@@ -48,7 +48,7 @@ The CC BY-NC-SA 4.0 license stated in this blog’s footer applies solely to ori
 This article is a translation and therefore constitutes a derivative work of the original text. In order to respect the copyright of the original work and its rights holder, this translation is **not** licensed under the CC BY-NC-SA 4.0 license. Any reproduction, redistribution, or adaptation of this translated text requires separate permission from the relevant copyright holder(s).
 
 **Original Work:**  
-This article is translated from *“The problematic politics of Japan’s ageing electorate”* by Yasuo Takao. Copyright in the original text remains with the original copyright holder.
+This article is translated from _“The problematic politics of Japan’s ageing electorate”_ by Yasuo Takao. Copyright in the original text remains with the original copyright holder.
 
 **Translation Information:**  
 Translated, reviewed, and published by Hatsumi. The translation reflects the original author’s views only. Any inaccuracies, omissions, or interpretative errors introduced in the translation are the sole responsibility of the translator.
@@ -64,17 +64,15 @@ k1rishima@proton.me
 
 ---
 
->**中文补充说明**  
->本站页脚所标注的 CC BY-NC-SA 4.0 知识共享协议仅适用于本站原创内容.  
->本文为翻译作品,属于原文的衍生作品,为尊重原作者版权,不适用该协议.  
->本文译文仅用于非商业性的学习,研究与文化交流目的.如版权方认为本文存在侵权问题,请联系译者,将第一时间处理.
+> **中文补充说明**  
+> 本站页脚所标注的 CC BY-NC-SA 4.0 知识共享协议仅适用于本站原创内容.  
+> 本文为翻译作品,属于原文的衍生作品,为尊重原作者版权,不适用该协议.  
+> 本文译文仅用于非商业性的学习,研究与文化交流目的.如版权方认为本文存在侵权问题,请联系译者,将第一时间处理.
 
+[^1]: 多数决策模型是将多数主义原则应用于具体的决策过程和公共选择理论中，尤其关注在特定投票机制下，集体偏好如何转化为最终政策。[WikipediaEN - Majoritarian Decision-Making Model](https://en.wikipedia.org/wiki/Majoritarianism) 
 
+[^2]: 经济合作与发展组织的前身是 1947 年由美国和加拿大发起，成立于 1948 年的欧洲经济合作组织（Organisation for European Economic Co-operation，缩写为 OEEC），该组织成立的目的是帮助执行致力于第二次世界大战以后欧洲重建的马歇尔计划。后来其成员国逐渐扩展到非欧洲国家。1961 年，欧洲经济合作组织改名为经济合作与发展组织。[WikipediaCN - 经济合作与发展组织](https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E4%B8%8E%E5%8F%91%E5%B1%95%E7%BB%84%E7%BB%87) 
 
+[^3]: 中间选民定理（英语：Median voter theorem）是邓肯·布莱克在 1948 年提出的一个与选择排序投票有关的模型。它指出，如果选民和候选人的政治光谱可以用一维坐标来表示，选民再根据候选人与自己的政治立场接近程度进行排序投票，并且投票规则为孔多塞投票法，那么立场最接近中间选民的候选人将会当选。[WikipediaCN - 中间选民定理](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E9%80%89%E6%B0%91%E5%AE%9A%E7%90%86) 
 
-[^1]:多数决策模型是将多数主义原则应用于具体的决策过程和公共选择理论中，尤其关注在特定投票机制下，集体偏好如何转化为最终政策。[WikipediaEN - Majoritarian Decision-Making Model](https://en.wikipedia.org/wiki/Majoritarianism) 
-    
-[^2]:经济合作与发展组织的前身是 1947 年由美国和加拿大发起，成立于 1948 年的欧洲经济合作组织（Organisation for European Economic Co-operation，缩写为 OEEC），该组织成立的目的是帮助执行致力于第二次世界大战以后欧洲重建的马歇尔计划。后来其成员国逐渐扩展到非欧洲国家。1961 年，欧洲经济合作组织改名为经济合作与发展组织。[WikipediaCN - 经济合作与发展组织](https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E4%B8%8E%E5%8F%91%E5%B1%95%E7%BB%84%E7%BB%87) 
-    
-[^3]:中间选民定理（英语：Median voter theorem）是邓肯·布莱克在 1948 年提出的一个与选择排序投票有关的模型。它指出，如果选民和候选人的政治光谱可以用一维坐标来表示，选民再根据候选人与自己的政治立场接近程度进行排序投票，并且投票规则为孔多塞投票法，那么立场最接近中间选民的候选人将会当选。[WikipediaCN - 中间选民定理](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E9%80%89%E6%B0%91%E5%AE%9A%E7%90%86) 
-[^4]:代际公平,也称作代际平等.经济、心理和社会学背景下的代际公平指的是几代人之间的公平或正义。这个概念除了可以描述儿童、青少年、成人和老年人之间的动态公平之外，也可以描述当前一代与未来几代人之间的公平. 在 Wikipedia 上查看: [WikipediaCN - 代际平等](https://zh.wikipedia.org/wiki/%E4%BB%A3%E9%99%85%E5%B9%B3%E7%AD%89) | [WikipediaEN - intergenerational equity](https://en.wikipedia.org/wiki/Intergenerational_equity) 
+[^4]: 代际公平,也称作代际平等.经济、心理和社会学背景下的代际公平指的是几代人之间的公平或正义。这个概念除了可以描述儿童、青少年、成人和老年人之间的动态公平之外，也可以描述当前一代与未来几代人之间的公平. 在 Wikipedia 上查看: [WikipediaCN - 代际平等](https://zh.wikipedia.org/wiki/%E4%BB%A3%E9%99%85%E5%B9%B3%E7%AD%89) | [WikipediaEN - intergenerational equity](https://en.wikipedia.org/wiki/Intergenerational_equity) 
