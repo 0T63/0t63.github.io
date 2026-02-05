@@ -4,15 +4,20 @@
 {% include "partials/seo.njk" %}
 </head>
 <body>
-  {# <script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
-  <script>
-    window.addEventListener("load", () => {
+<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
+<script type="module">
+    window.addEventListener("load", (event) => {
     new cursoreffects.ghostCursor();
-  }); #}
-    {# new cursoreffects.ghostCursor({
+    });  {# 效果01_01 #}
+</script>
+  {# <script>
+    new cursoreffects.ghostCursor({
     image: "https://www.cursor.cc/cursor/820/63/cursor.png"
   }); #}
-{# cursor-effects From https://github.com/tholman/cursor-effects #}
+   {# 效果01 #} 
+
+{# cursor-effects From https://github.com/tholman/cursor-effects
+效果来自↑ #}
 </script>
 <a href="#main-content" class="skip-to-content">Skip to content</a>
 {% include "partials/control.njk" %}
