@@ -57,36 +57,6 @@
 	</url>
 	
 	<url>
-		<loc>https://0t63.github.io/blog/</loc>
-		<lastmod>2026-02-03</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://0t63.github.io/</loc>
-		<lastmod>2026-02-03</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://0t63.github.io/about/</loc>
-		<lastmod>2026-02-03</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://0t63.github.io/search/</loc>
-		<lastmod>2026-02-03</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://0t63.github.io/tags/</loc>
-		<lastmod>2026-02-03</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://0t63.github.io/feed/feed.xml</loc>
-		<lastmod>2026-02-03</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://0t63.github.io/blog/Fragments/Provisional-Laws.2026-02-04/</loc>
 		<lastmod>2026-02-04</lastmod>
 	</url>
@@ -94,5 +64,40 @@
 	<url>
 		<loc>https://0t63.github.io/blog/Logs/2026-02-04/</loc>
 		<lastmod>2026-02-04</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/blog/</loc>
+		<lastmod>2026-02-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/blog/Logs/%E6%9C%AA%E5%91%BD%E5%90%8D/</loc>
+		<lastmod>2026-02-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/</loc>
+		<lastmod>2026-02-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/about/</loc>
+		<lastmod>2026-02-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/search/</loc>
+		<lastmod>2026-02-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/tags/</loc>
+		<lastmod>2026-02-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://0t63.github.io/feed/feed.xml</loc>
+		<lastmod>2026-02-05</lastmod>
 	</url>
 </urlset>
