@@ -2,7 +2,7 @@
 title: 橘子是什么时候开始腐烂的?
 author: Hatsumi
 date: 2026-02-05
-description: just someone's day
+description: Just someone's day
 tags:
   - logs
 ---
