@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Blog</title>
-<meta content="Blog" property="og:title">
-<meta content="Blog" name="twitter:title">
-<meta content="Blog" name="title">
-<meta content="Blog" property="og:site_name">
-<meta content="Just Blog" name="description">
-<meta content="Just Blog" property="facebook:description">
-<meta content="Just Blog" property="og:description">
-<meta content="Just Blog" name="twitter:description">
+<title>札记 2026-02-07 Le Mythe de Sisyphe</title>
+<meta content="札记 2026-02-07 Le Mythe de Sisyphe" property="og:title">
+<meta content="札记 2026-02-07 Le Mythe de Sisyphe" name="twitter:title">
+<meta content="札记 2026-02-07 Le Mythe de Sisyphe" name="title">
+<meta content="札记 2026-02-07 Le Mythe de Sisyphe" property="og:site_name">
+<meta content="加缪对于胡塞尔的局部总结" name="description">
+<meta content="加缪对于胡塞尔的局部总结" property="facebook:description">
+<meta content="加缪对于胡塞尔的局部总结" property="og:description">
+<meta content="加缪对于胡塞尔的局部总结" name="twitter:description">
 <meta property="twitter:card" content="summary_large_image">
 <meta content="" name="twitter:image">
 <meta content="" name="facebook:image">
@@ -22,14 +22,182 @@
 <meta content="" property="twitter:author">
 <meta content="" name="twitter:site">
 <meta property="og:type" content="website">
-<link rel="canonical" href="https://0t63.github.io//">
+<link rel="canonical" href="https://0t63.github.io//blog/Fragments/2026-02-07-Le_Mythe_de_Sisyphe-01/">
 <link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="Blog">
 <meta name="language" content="zh-cn">
 <meta name="locale" content="en_US">
 <meta property="og:locale" content="en_US">
 <meta name="generator" content="Eleventy v3.1.2"> 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","description":"Just Blog","headline":"Blog - Just Blog","name":"Blog","url":"https://0t63.github.io//"}</script>
-<style>@charset "UTF-8";/*!
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","description":"Just Blog","headline":"Blog - Just Blog","name":"Blog","url":"https://0t63.github.io//blog/Fragments/2026-02-07-Le_Mythe_de_Sisyphe-01/"}</script>
+<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+@charset "UTF-8";/*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
  * Copyright 2011-2024 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
@@ -168,57 +336,69 @@ Blog</strong></a>
 </nav>
 
 <main id="main-content">
+
 <div class="container">
 <div class="row">
-<div class="col-md-8 p-3 p-md-5 mx-auto">
-<h1 class="display-4 header-title text-center mb-5" id="read-and-think">Read & think</h1>
-<div class="row">
+<div class="col-md-7 p-3 p-md-5 mx-auto">
+<header class="text-center mb-5">
+<h1 class="display-4 header-title" id="2026-02-07-le-mythe-de-sisyphe">札记 2026-02-07 Le Mythe de Sisyphe</h1>
+<h2 class="lead" id="">加缪对于胡塞尔的局部总结</h2>
 
+<p>By <a href="/about/">Hatsumi</a> <time datetime="2026-02-07">07 February 2026</time></p>
+<p class="small mb-5"><small><a href="/tags/fragments/">Fragments</a> </small></p>
+</header>
+<article class="mb-5">
 
+<!-- 
 
+本文標題:   2026-02-07-[内容]-[编号]
+Le_Mythe_de_Sisyphe
 
+-->
+<blockquote>
+<p>我也不会对胡塞尔“具体宇宙<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>”的主题感到惊讶<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>。如果跟我说并非所有本质因素都是形式上的，而有些是物质上的，第一种是逻辑对象，第二种是科学对象，那么这只是一个定义问题<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>。我读到，抽象的宇宙只是表示具体宇宙的一部分<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup>，然而已得到注意的摇摆容许我阐明混乱的各项<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup>。因为这将意味着，我所关注的具体对象——天空、外套上水渍中的反射物——保留了我对这世界的兴趣关注点的声望<sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup>。我不否认这一点，但这也意味着这件外套本身就具有普遍性<sup class="footnote-ref"><a href="#fn7" id="fnref7">[7]</a></sup>，有自己独特而充分的本质，属于形式世界。我意识到，只是前进的次序被改变了<sup class="footnote-ref"><a href="#fn8" id="fnref8">[8]</a></sup>，这个世界已不再能反射到更高层次的宇宙中<sup class="footnote-ref"><a href="#fn9" id="fnref9">[9]</a></sup>，但形式的天堂在地球上的诸多形象中都有自己的倒影<sup class="footnote-ref"><a href="#fn10" id="fnref10">[10]</a></sup>。这对我而言没什么改变<sup class="footnote-ref"><a href="#fn11" id="fnref11">[11]</a></sup>。在此我没有形成对人类状态的意义——这一具体性——的鉴赏力，但我发现了一种不受束缚的唯理智论，可以将具体本身普遍化<sup class="footnote-ref"><a href="#fn12" id="fnref12">[12]</a></sup>。</p>
+</blockquote>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>具体经验(Concrete Experience):直接,个人,独特的感知与生活的经验,而不是抽象的概念.有偶然性与特定性.形式世界的结构(Formal World / Abstract Structure):指普遍的,理性的,归纳化的规律或本质.把具体经验联系在一起形成系统,让经验不再是孤立无意义的感知,可以被感知或归纳 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>感到驚訝或反感,因爲好像看似是加繆所主張的 <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>就像加繆説的,邏輯對象(形式上的),科學對象與具體經驗(物質上的).如果只是從定義上把這兩種對象分開.那加繆能接受,畢竟這只是定義問題. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>不是具体世界依附于抽象理念,而是抽象来自具体的澄清. <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>通过意识的聚焦,可以清楚地描述经验世界的细节,而不用立即寻求统一的形而上解释 <a href="#fnref5" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>胡塞尔的&quot;具体宇宙&quot;允许这些平常的具体事物对象被认证对待,而不是试图总结出抽象的普遍道理,普遍本质. <a href="#fnref6" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn7" class="footnote-item"><p>其实这里加缪开始表达批评的观点.虽然具体的对象被认真对待.但胡塞尔暗示这些事物自身也有普遍性与本质.属于形式世界,不再是纯粹的偶然与荒谬无意义的存在 <a href="#fnref7" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn8" class="footnote-item"><p>以前是形式先于具体(柏拉图),现在是具体先于形式,这一点在前面的论述中可以显现.形式仍然存在.只是映射顺序不同.说句文学化的,行为上世界的&quot;倒影&quot;仍然潜伏在经验中 <a href="#fnref8" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn9" class="footnote-item"><p>去超越化.和前面的手套一樣.把原來的對終極意義的幻想給掐滅了.所以&quot;不能反射到更高層次的宇宙中&quot; <a href="#fnref9" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn10" class="footnote-item"><p>你只是取消了一个超越的位置,却保留了一个永恒的结构. <a href="#fnref10" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn11" class="footnote-item"><p>并没有解决加繆关心的问题 <a href="#fnref11" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn12" class="footnote-item"><p>胡塞尔确实把哲学的目光放回具体经验,但他从未真正承认具体的无根性与不可救赎性.他只是把柏拉图的天堂拆散,撒进了世界里.实际上是一种&quot;唯理智论(不是唯意志论(Voluntarism))&quot;,通过理性结构,把具体的经验抽象成普遍的,可理解的形式. <a href="#fnref12" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
 
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-02-07-le-mythe-de-sisyphe"><a href="/blog/Fragments/2026-02-07-Le_Mythe_de_Sisyphe-01/">札记 2026-02-07 Le Mythe de Sisyphe</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-07">February 2026</time></p>
 </article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-02-06"><a href="/blog/Logs/2026-02-06/">日志 2026-02-06 被系统遗弃的地方</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-06">February 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-02-05-happy-new-year"><a href="/blog/Logs/2026-02-05/">日志 2026-02-05 Happy New Year!</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-05">February 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id=""><a href="/blog/Logs/2026-02-05-Where-the-Juice-Begins-to-Rot/">橘子是什么时候开始腐烂的?</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-05">February 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="-2"><a href="/blog/Fragments/2026-02-05-DeathAndReconciliation/">死亡的沉淀与空转感</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-05">February 2026</time></p>
-</article>
-
-<article class="border-top row p-3">
-<h2 class="col-8" id="2026-02-04"><a href="/blog/Logs/2026-02-04/">日志 2026-02-04</a></h2>
-<p class="col-4 mt-2 text-end"><time class="postlist-date" datetime="2026-02-04">February 2026</time></p>
-</article>
-
-
-<div class="border-top row p-3">
-<p class="text-center p-3">
-<a href="/blog" class="btn btn-dark btn-lg rounded-pill col-12 col-md-5 p-3 shadow">Explore all Post</a>
-</p>
+</div>
+<div class="col-10 mx-auto border-top border-bottom row p-3">
+<div class="col-6 border-end">
+<p><a href="/blog/Logs/2026-02-06/" class="display-4">← Prev </a></p>
+</div>
+<div class="col-6 text-end border-start">
 </div>
 </div>
 </div>
 </div>
-</div>
-
 
 </main>
 <footer class="container mt-3 text-center">
