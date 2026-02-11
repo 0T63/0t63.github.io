@@ -5,17 +5,27 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2026-02-09T00:00:00Z</updated>
+  <updated>2026-02-11T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
   <entry>
+    <title>日志 2026-02-11</title>
+    <link href="https://example.com/blog/2026-02-11/" />
+    <updated>2026-02-11T00:00:00Z</updated>
+    <id>https://example.com/blog/2026-02-11/</id>
+    <content type="html">&lt;h2 id=&quot;15-51&quot; tabindex=&quot;-1&quot;&gt;15:51 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/2026-02-11/#15-51&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;wdf…这里真的是地狱…原来没有网络是真的会私人de…打字只能用薄膜键盘也超级難受…最重要的是藥還忘帶了.現在説是説是控制自己的情緒了mad,別緊張,別緊張,平常就挺好的.只不過是藥忘帶了危機感而已并不是真的發生了…不想跟家裏人說a.一兩個星期停藥應該沒事,只要我控制好自己的情緒,別再出事.不過其實挺愜意的現在.趕集挺好玩de.就是環境確實很&amp;quot;農村&amp;quot;…&lt;br&gt;
+受不了,還是把鍵盤拿出來吧,擺在薄膜鍵盤上面問題應該不大.不想壓著筆記本的鍵盤.最近幾天太愜意&lt;s&gt;太無聊&lt;/s&gt;了主要是,而且網絡環境也很差.甚至我都不知道博客能不能push的出去.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>日志 2026-02-09</title>
-    <link href="https://example.com/blog/2026-02-09/" />
+    <link href="https://example.com/blog/Logs/2026-02-09/" />
     <updated>2026-02-09T00:00:00Z</updated>
-    <id>https://example.com/blog/2026-02-09/</id>
-    <content type="html">&lt;h2 id=&quot;07-25&quot; tabindex=&quot;-1&quot;&gt;07:25 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/2026-02-09/#07-25&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+    <id>https://example.com/blog/Logs/2026-02-09/</id>
+    <content type="html">&lt;h2 id=&quot;07-25&quot; tabindex=&quot;-1&quot;&gt;07:25 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-09/#07-25&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;早啊,早上一起來接到電話奶奶説老家放了很久的hmmm熱水瓶在早上使用的時候爆開來了.害得我通宵奔雷昏昏欲睡的狀態直接清醒了…我去看了一下好在沒有那種大傷口.趕緊叫親戚把奶奶送去鎮子上的醫院看看.最好使用生理鹽水什麽的多衝洗一下…剛把奶奶送去應該沒事的.我把奶奶房間收拾一下.那種劣質的塑料玻璃熱水瓶以後真的不要用了…&lt;/p&gt;
 &lt;p&gt;聊聊別的.我在樓梯間看到了一株盧植.雖然已經是完全枯萎破敗的棕黑色.但維持在盛開的那一瞬間呢…真諷刺…大概它早就死在了十幾二十年前.只不過由於環境原因(乾燥.通風.基本無干擾).雖然看著就像是按下了暫停鍵阿…就像是一個被遺忘的過程節點.&lt;/p&gt;
 &lt;p&gt;讓我想想怎麽描述它,像是菊科的那種放射狀的草本植物,挺盛大的,Hhhh,沒有什麽所謂的&amp;quot;超自然成分&amp;quot;,單純的,被遺忘,被抛棄.生命停止了.但形式還在.過程在已結束.結果看起來像永恆,但原因只是被遺忘.這種東西…往往特別容易被誤讀成象徵…挺怪誕的,被遺忘…但並不是消失,而是完全失去了參與變化的資格,這株植物并沒有繼續生長.但也沒有被清理.就卡在這裏.一個被遺忘的地方.好像很多人理解的遺忘是被抹去,但現實中更像是暫停,形式存在,意義停止.&lt;/p&gt;
@@ -197,37 +207,6 @@ Le_Mythe_de_Sisyphe
 &lt;p&gt;這讓我想到一個悖論,越是追求極致的理性,最後反而會推導出一種極致的荒誕感.我們越是想證明自己理解宇宙,就越顯得我們像是在「雞腦」裡跳舞.hahaha,挺有意思的&lt;/p&gt;
 &lt;p&gt;是的,我們現在的物理定律可能的確只是一個臆想,但這不代表著我們就要邁向虛無主義,背負著清醒繼續生活,不去逃避這些思考才是我主張的.雖然不想說,但實際上我們等不到宇宙規則巨變的時候了,因爲甚至那份&amp;quot;恐懼&amp;quot;都不是我們配享有的.我們總習慣把自己想像成災難片的主角,覺得宇宙崩塌時我們會站在末日的邊緣見證真理的毀滅.但實際上,如果「雞腦宇宙」的規律真的發生了跳躍,我們連「意識到自己錯了」的機會都沒有.&lt;strong&gt;如果你知道這一切都是偶得的,不穩定的倖存者偏差,你反而會更專注於&lt;/strong&gt;當下的質感不是嗎?而不是把希望寄托於永恆的真理.我們不用擔心「宇宙末日」,因為我們太微小了,小到不配被宇宙正式處決&lt;/p&gt;
 &lt;p&gt;這種思考的過程確實會讓我感到安心…&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>日志 2026-02-03</title>
-    <link href="https://example.com/blog/Logs/2026-02-03/" />
-    <updated>2026-02-03T00:00:00Z</updated>
-    <id>https://example.com/blog/Logs/2026-02-03/</id>
-    <content type="html">&lt;h2 id=&quot;00-42&quot; tabindex=&quot;-1&quot;&gt;00:42 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-03/#00-42&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;這篇博客本質上或許只是我的 Obsidian 博客文件夾中的一個本地文件映射.只不過比較不同的是映射到的地點是 GitHub 遠程倉庫.喝瓶魔爪,我的肚子在抗議了.强行提神的效果麽…仔細一想.我好像已經25小時沒有睡過覺&lt;/p&gt;
-&lt;h2 id=&quot;12-59&quot; tabindex=&quot;-1&quot;&gt;12:59 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-03/#12-59&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;morning,剛睡醒.我是個靠過去活著的人…不過誰不是呢.人靠時間連續性獲得主體性.我也一樣.嗓子很乾,咽喉炎又犯,早上起來第一件事就是看電腦.我不知道顯得的狀態怎麽形容.疲憊,更多是身體的不適.看來昨天還是太勉强自己了.現在身體感覺好像要散架.倒點水我看看有什麽藥.人在中這時候會抓住一切能幫著自己的救命的稻草.喝了點蒲地藍我覺得稍微好點了.&lt;/p&gt;
-&lt;p&gt;我今天應不應該休息?我不太清楚.我什麽時候被允許過休息了?誰知道呢&lt;/p&gt;
-&lt;h2 id=&quot;14-00&quot; tabindex=&quot;-1&quot;&gt;14:00 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-03/#14-00&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;整理了一個記錄我思考碎片的一篇.由於文章挺少,給讀者做了些許適配,&lt;/p&gt;
-&lt;h2 id=&quot;20-03&quot; tabindex=&quot;-1&quot;&gt;20:03 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-03/#20-03&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;仔細想了想,我準備把自己的思考與日志分開來.不然重叠起來到時候想再想起來可夠煩人的.現在大概是思考的低谷期了,沒什麽有質量的產出.我想到一個標準.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;隔 24 小時再看,你還願意為這個想法負責嗎?&lt;br&gt;
-如果不願意,它就永遠留在 logs 裡腐爛,這沒關係.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我覺得很不錯.About裏面的暫存區可以下綫了&lt;/p&gt;
-&lt;p&gt;沒重要的事那就不記錄了,我有想法.允許混亂的產出,但是我要有槼則的保存.logs就是那混亂的產出.我在fragments裏有槼則的保存,繼續在logs裏未成熟的想法,fragments里面保存单独的想法.但不代表以后随便记东西了.最近的思考确实较少.好像没什么需要记录的了.就这样,其实也就是logs记录大部分,实验.学习记录.一点点想法,如果有,那就去写fragments&lt;/p&gt;
-&lt;h2 id=&quot;22-05&quot; tabindex=&quot;-1&quot;&gt;22:05 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-03/#22-05&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;休息中,看到一個腦殘視頻標題,我就算不點進去看也已經看出來問題了:“珠海方面全面禁止食用狗肉,黑市銷量直接暴漲100%”.看到的不过随便想想就能想到这是个断章取义的说法.你家畜没经过检疫检查,吃出来问题谁负责?&lt;/p&gt;
-&lt;p&gt;真的是笑死…現實中的狗肉絕大多數都是沒有經過檢疫的.猫,狗没有列入国家畜禽遗传资源目录,也无法取得检疫检验手续.一旦吃出來問題,沒有任何一方能被追責.你吃出問題只能去醫院,監督部門,但這不能追溯源頭.這不是&amp;quot;風險變高&amp;quot;了,而是整個責任結構徹底消失.首先,檢疫不是形式主義,而是實實在在正在運行的系統.這項系統讓你吃的東西 &lt;code&gt;可溯 责任可查 疾病可筛查&lt;/code&gt;,少了一個環節都要出大問題.&lt;code&gt;狂犬病 寄生蟲 毒素殘留&lt;/code&gt; 不僅僅是吃了馬上暴斃,還有高概率的潛伏風險.&lt;/p&gt;
-&lt;p&gt;現在來聊聊黑市.黑市價格我不清楚,但我能想到所謂&amp;quot;狗肉被禁&amp;quot;後黑市的價格上漲.貴就代表著質量?不好意思,它賣的是稀缺性.無檢疫 無冷鏈 不穩定來源,快速周轉,價格可能上漲,但質量與安全性同步下降.&lt;/p&gt;
-&lt;p&gt;聊聊最後,當責任無人承擔,最後的成本誰來負責?個體的健康風險,醫療機構承擔治療,資金成本依舊是個體負責.社會壓力與輿論壓力(國家受到影響),但那些非法交易並不會為你的選擇付款.&lt;/p&gt;
-&lt;p&gt;所以你猜為什麼國家對於食品安全的態度為什麼這麼強硬?但凡有一點寬容,那就代表有利可圖.而在這個無人承擔責任,即無辜個體直接承擔風險的結構性困境下,強硬的政策顯得那麼&amp;quot;寬容&amp;quot;.&lt;/p&gt;
-&lt;p&gt;哦對了,我們再退一步,還記得我那句話:“猫,狗没有列入国家畜禽遗传资源目录,也无法取得检疫检验手续&amp;quot;這説明什麽?無論你區分所謂&amp;quot;家畜&amp;quot;與&amp;quot;寵物”,這從法律層面就是不存在的.&lt;/p&gt;
-&lt;p&gt;還有老一代.老一代確實不一樣.他們那個時代是吃不吃得問題,而不是安不安全的問題,這裏我要華清一條界限了,我目前是正在給他們找一個理由,而非爲他們的行爲找合理性,現代社會已經是一個把風險制度化管理的組織.你只需要遵守流程.檢疫并不是所謂&amp;quot;形式主義,而是將你從隨機高風險的飲食結構解放出來.但,在一個已經有制度化兜底的時代,你爲什麽要主動退回無制度被迫個體兜底的時代?用饑荒年代的生存邏輯,去評價今天的食品安全制度,本身就是時代錯位.&lt;/p&gt;
-&lt;p&gt;其實這樣就可以引申出一個問題,如果是經濟被迫呢?這一點我們放到以後去聊.如果以後發展成 &lt;code&gt;经济被迫 vs 食品安全制度&lt;/code&gt; 我或許會考慮加入 &lt;code&gt;Fargments&lt;/code&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
