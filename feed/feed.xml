@@ -5,11 +5,36 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2026-02-14T00:00:00Z</updated>
+  <updated>2026-02-20T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>日志 2026-02-20 文化資本的理想化展示</title>
+    <link href="https://example.com/blog/Logs/2026-02-20-The-Performative-Display-of-Cultural-Capital/" />
+    <updated>2026-02-20T00:00:00Z</updated>
+    <id>https://example.com/blog/Logs/2026-02-20-The-Performative-Display-of-Cultural-Capital/</id>
+    <content type="html">&lt;p&gt;不清楚那些交友把自己特点列出来一万条一天看不完的人是什么心理.文化符号一多,那便会压倒一个人.或者这个人只是纯粹一副表演姿态,所谓的哲学爱好都只是消费化的标签展示.当加缪,萨特,德勒兹等脱离了苦闷,挣扎的阅读而独立于标签之中时,他们就变成了光鲜亮丽的文化标签&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>札记 2026-02-20 有關自我同一性的簡短個人想法</title>
+    <link href="https://example.com/blog/Fragments/2026-02-20-Brief_Personal_Reflections_on_Self-Identity/" />
+    <updated>2026-02-20T00:00:00Z</updated>
+    <id>https://example.com/blog/Fragments/2026-02-20-Brief_Personal_Reflections_on_Self-Identity/</id>
+    <content type="html">&lt;!-- 
+
+本文標題:   2026-02-07-[内容]-[编号]
+
+_Le Mythe de Sisyphe_
+Le Mythe de Sisyphe
+
+--&gt;
+&lt;p&gt;判断一个人的意识与昨天相同的标准都有些什么?连续性?还有什么?我还是不是昨天的我.这一类人类直觉问题似乎只要开始认真拆解.那便会开始松动…第一种连续性,“记忆连续性”,也就是 John Locke 的思路,如果你能记清你昨天的经历,并且把它当作&amp;quot;我所经历的&amp;quot;,那你就是同一个人.但马上会出现一个问题,人的记忆会出错,会遗忘,你做的梦与现实会混在一起.第二种是心里结构的连续性,你的性格,内化的价值判断,思维方式有没有发生明显断层.“你讨厌某种东西&amp;quot;但你今天依旧讨厌.但人是会缓慢变化的,如果变化到什么程度,人就不算是同一个人了呢?第三种或许是身体的连续性,这是最直观也最容易被伪装的一种,“同一个大脑,同一具身体”,但这也不稳,你的身体细胞在不断更替,在极端情况例如&amp;quot;脑损伤”,“人格改变”,如果一个人因脑部损伤而变得完全不同,我们的直觉会动摇,这还是他么?最后一种大概是叙事连续性,人会把自己编成一个故事,只要这个故事能连续下去,例如&amp;quot;我从昨天晚上睡到今天早上&amp;quot;,那么这个自我便被维持住了.当然,也可能或许我们根本就不存在稳定的自我,人的连续性从一开始就是我们对自身稳定需求所创造出来的,只不过是大脑为了方便制造的幻觉.就像我们的视觉.谁知道结果是什么呢?&lt;/p&gt;
+&lt;p&gt;放进 Fragments 积灰以后再想吧&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>日志 2026-02-14</title>
     <link href="https://example.com/blog/Logs/2026-02-14/" />
@@ -167,36 +192,6 @@ Le_Mythe_de_Sisyphe
 &lt;p&gt;这些无辜的橘子,也就这样一起被送进了垃圾桶,可惜了…也无奈.&lt;/p&gt;
 &lt;p&gt;如果还有没吃完的橘子,剩下的橘子还是得赶紧吃掉……享受它们还没有被时间偷走的甜.&lt;/p&gt;
 &lt;p&gt;ps: 明明才过了半天阿…&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>死亡的沉淀与空转感</title>
-    <link href="https://example.com/blog/Fragments/2026-02-05-DeathAndReconciliation/" />
-    <updated>2026-02-05T00:00:00Z</updated>
-    <id>https://example.com/blog/Fragments/2026-02-05-DeathAndReconciliation/</id>
-    <content type="html">&lt;!--
-
-本文標題:  fragments-2026-02-05
-
---&gt;
-&lt;p&gt;其實我覺得,也聽過,人一直恐懼的不是死亡本身,而是恐懼思考死亡這件事的過程.因為你還沒有做過許多事情來消解死亡帶來的終極性.依舊是我說的,我們恐懼的是思考死亡的過程.實際上似乎並不用恐懼?畢竟這件事是需要你用人生時間沈澱的.你會與死亡慢慢&amp;quot;和解&amp;quot;吧,hhh&lt;/p&gt;
-&lt;p&gt;你越是用生活填充自己,就越能慢慢把死亡看成自然的結束,而不是令人窒息的終結,這並不是單純的恐懼,我剛才説過,可以再重申一遍:這並不是單純的接受現實,如果因爲簡單的想到人終有一死,邁向虛無主義,我能理解,接受現實只是認識到&amp;quot;死亡不可避免&amp;quot;,但很多人會停留在那里,然後覺得一切努力都沒有意義,陷入虛無主義.這其實是一種心理停滯——對死亡的意識還沒有經過消化和內化,就直接觸碰到了生命的終極空洞.&lt;/p&gt;
-&lt;p&gt;我説到的和解,是一種&amp;quot;積極&amp;quot;的內在心理過程,不否認死亡,但也不會簡單的承認它讓一切失去意義.用人生的每一分,每一秒,每一次體驗建構來詮釋.&lt;/p&gt;
-&lt;p&gt;簡單想到&amp;quot;終有一死&amp;quot;就虛無化,是因為缺少了這個內在沈澱的過程——需要經歷,感受,思考,實踐.慢慢讓你對死亡有自己的&amp;quot;關系&amp;quot;,而不是單純恐懼或者否認.&lt;/p&gt;
-&lt;p&gt;其實有時候警會感覺到討論死亡這個話題最後哦得出來的做法基本只有這個.有時候覺得甚至有點,乏味?雖然死亡帶來的震撼感很大,但從哲學,心理學的角度上去思考,最終基本上都是回到&amp;quot;接受,內化&amp;quot;的結論.這確實很有限,容易讓人感到乏味與循環…也可以說這是對話題深度的一種反應吧,你已經看穿了思考過程的基本套路,知道無論如何,最後還是要回到&amp;quot;生活本身&amp;quot;的實踐內容去,不像科學問可以有明確答案(對人類而言),也不想技術問題可以通過實際操作解決.死亡更多是存在於個體的,存在性的.需要你用時間沈澱,討論再多,也只能像是產生&amp;quot;空轉感&amp;quot;.&lt;/p&gt;
-&lt;p&gt;其實吧,這種空轉感也能成爲一個洞察,哲學或思考死亡並不是爲了給出一個結論,而是爲了讓你更敏銳地感知生命的每一刻.換句話説,乏味感是思想上的副作用,也是對內在成熟的一種…反饋?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://example.com/blog/Logs/2026-02-05/&quot;&gt;跳轉到札记/博客[點這裏!]&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>日志 2026-02-04</title>
-    <link href="https://example.com/blog/Logs/2026-02-04/" />
-    <updated>2026-02-04T00:00:00Z</updated>
-    <id>https://example.com/blog/Logs/2026-02-04/</id>
-    <content type="html">&lt;h2 id=&quot;04-59&quot; tabindex=&quot;-1&quot;&gt;04:59 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-04/#04-59&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;我有一些veryvery奇怪的想法,有沒有一種世界,證明規則都是靠事後馬後炮,比如有些時候化學反應能成功那就是因為XXX定律,有些時候完全相同的過程完全沒反應,也是夠就隻字不提XXX定律了.然後這個世界的規律還真是這樣,haha,一個全都是倖存者偏差的世界.我與一些后有意思的深入思考.寫進札記 ^905cbb&lt;/p&gt;
-&lt;p&gt;這邊請移步札記捏.不存在的讀者.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://example.com/blog/Fragments/2026-02-04-Provisional-Laws&quot;&gt;跳轉到札记/博客[點這裏!]&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
