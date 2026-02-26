@@ -5,11 +5,37 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2026-02-20T00:00:00Z</updated>
+  <updated>2026-02-26T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>日记 2026-02-26</title>
+    <link href="https://example.com/blog/Logs/2026-02-26/" />
+    <updated>2026-02-26T00:00:00Z</updated>
+    <id>https://example.com/blog/Logs/2026-02-26/</id>
+    <content type="html">&lt;p&gt;终于是回到城里了,感觉舒服得多,毕竟东西都是为我专门准备好的…不知道为什么在老家比我在城里勤劳hhhh,估计是因为环境比城里困难吧&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>日记 2026-02-24-内在父母与失效的模型</title>
+    <link href="https://example.com/blog/Logs/2026-02-24-The-Internal-Parent-and-the-Model-That%20No-Longer-Works/" />
+    <updated>2026-02-26T00:00:00Z</updated>
+    <id>https://example.com/blog/Logs/2026-02-24-The-Internal-Parent-and-the-Model-That%20No-Longer-Works/</id>
+    <content type="html">&lt;p&gt;小时候父亲跟我说话的印象都是很戏谑,不耐烦.于是我很害怕父亲.随后长大了之后也学会了这么说话,但我发现这貌似并不是我感受到的戏谑,他并没有那种情绪,正常说话就是如此.但我已经改不掉说话的习惯.&lt;/p&gt;
+&lt;p&gt;孩子从家长身上学到了家长不存在的东西么,或许孩子是学习以自己心理投射出的父母,家长在无意识间将自身的创伤&amp;quot;加密&amp;quot;传递给了孩子,孩子通过模仿童年时的&amp;quot;父母&amp;quot;来试图证明自己摆脱了童年的创伤,然而这只是一次次复制痛苦.不过有点太绝对了&lt;/p&gt;
+&lt;p&gt;或许吧.人们在理解别人时实际上了解的并不是真实的&amp;quot;客体&amp;quot;,而是一个由自己主观层面上感受到的内在意识投射,可能或许就是所谓的&amp;quot;内在父母形象&amp;quot;吧.这个形象不是真实父母的完整复制,而是混合了孩子的恐惧,期待,误解与幻想…那个幻想中的&amp;quot;父亲&amp;quot;,可能会比现实中的父亲更加锋利,漠然.&lt;/p&gt;
+&lt;p&gt;不过也不能太过,这是孩子们在认知有限与极度敏感情况下能做到的最有效的预测模型?或许父母亦是,父母年幼时从他们的父母形成的预测模型来当父母.&lt;/p&gt;
+&lt;p&gt;这么解释很锋利,也有些无奈,很多时候人了解一个人并不是真的了解一个人,而是主观体验到的人,我们永远只能接触到现象,也就是被认知结构过滤后的世界…&lt;/p&gt;
+&lt;p&gt;说到这,Jean-Paul Sartre 写过的&amp;quot;他人即地狱&amp;quot;指的并不是他人可怕,而是他人的目光会把你固定成一个形象,同样,你也在用一个框架固定成一个形象.&lt;/p&gt;
+&lt;p&gt;家庭中即使如此,家长在无意识间将自身的创伤&amp;quot;加密&amp;quot;传递给了孩子,孩子通过模仿童年时的&amp;quot;父母&amp;quot;来试图证明自己摆脱了童年的创伤,然而这只是一次次复制痛苦…吗?我想了想这段话,或许传递的并不是创伤,而是应对创伤的机制,某种意义上这种机制会创造新的创伤.或许在某段时间内,这个方法的确有效果,但时过境迁终究会失效,或者说注定会失效,但这个模型依旧在运行.&lt;/p&gt;
+&lt;p&gt;越想越奇怪啊,我们既可以被塑造,也可以在成长过程中自行重塑.创伤可以跨代重塑,觉察亦可跨代终止…&lt;/p&gt;
+&lt;p&gt;Nope,我不对我的这些观点负责,纯主观论断,请勿在意.想了想最后聊聊自己为什么学会那样保护自己的方式?大概还是父母离婚的那段压抑时光.不过就提一嘴,毕竟最后也是给自己去看,反思,提出新的观点.&lt;/p&gt;
+&lt;p&gt;我想我对父母的憎恨已不再像那段时光,他们充其量也只是和我一样的人.或许这就叫做释怀吧,&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://example.com/blog/Logs/2026-02-24-The-Internal-Parent-and-the-Model-That%20No-Longer-Works/img/think_hand.jpg&quot; alt=&quot;think&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>日志 2026-02-20 文化資本的理想化展示</title>
     <link href="https://example.com/blog/Logs/2026-02-20-The-Performative-Display-of-Cultural-Capital/" />
@@ -155,43 +181,6 @@ Le_Mythe_de_Sisyphe
 &lt;p&gt;倆聊別的吧,我那會很好動,在那附近還有一份被廢棄的90年代實驗室,有一棟房子裏面書架叠滿了黃皮書,我曾經打開看了看,全是手寫的資料什麽的…其餘的房間都是空曠的,我在找到過一個獎項,貌似這個實驗場曾經被評為優秀農產品研究院.我來的那次找到了一個塵封了不知道幾十年,從來沒開封過的鋼製原子筆,還有一個可用的顯微鏡,被我帶回家了hhhhhh,一段時間之後我閑的沒事再過去,那裏的書架上的東西全都被清空了.感覺知识.劳动.荣誉,只要脱离运转中的系统,就会迅速失重…haahaha,想來這件事還挺羞恥的.&lt;/p&gt;
 &lt;p&gt;怎麽説呢,我形容一下怎麽進去的,那件研究院和一家工廠連在一起,但只是連在一起,并沒有聯通.我首先是進入了那家工廠,在門口有一堆看著好像沒有壞掉的罐頭融合在一堆垃圾裏,我看到過其中一個榨菜罐頭的包裝,“生產于1987”.後面我一不小心(故意)用石頭從遠處砸開了一個罐頭,一開始沒感覺到什麽異樣.但是我突然聞到了一股不可名狀的惡臭,不是人類生理能承受的住的東西,馬上就跑了,鑽進了研究院開始隨便逛,hahaha&lt;/p&gt;
 &lt;p&gt;再説就沒別的了,研究院有個類似泳池一樣的東西,但是純混凝土的泳池,裏面的水完全變成了黑色,我想掉下去多半會出大事,在旁邊有個類似厠所的地方,也可能是更衣室?反正比其他的建築陰森的多,因爲上面的藤曼完全蔓延了下來,説到這個,忘了形容研究院的構造了,大概是兩個四層樓的建築,現在想想真的很危險,那種危樓&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>日志 2026-02-05 Happy New Year!</title>
-    <link href="https://example.com/blog/Logs/2026-02-05/" />
-    <updated>2026-02-05T00:00:00Z</updated>
-    <id>https://example.com/blog/Logs/2026-02-05/</id>
-    <content type="html">&lt;h2 id=&quot;17-29&quot; tabindex=&quot;-1&quot;&gt;17:29 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-05/#17-29&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;沒幾天就要回老家了HAHAHA.我覺得回老家印象最深的不是在老家的日常,而是那坐車一天一夜的過程,hhh.晚上淩晨途徑服務區,在車外透透風啊什麼的.我在想要不然把備忘錄也push到博客?還是算了吧.回到話題.在車外透風的感覺很奇怪,四周的公路上都是雪,冷風朝著你曖昧的吹氣.但是你的身體卻不寒而栗.hhh一方面是即將回到一個對你對一個家族來說很重要的地方,也承載著挺多有關於你的回憶,另一方面,當下在服務區切實感受到的寒冷也不是虛假的&lt;/p&gt;
-&lt;p&gt;或許吧,情緒並不會因為你的想法:&amp;quot;事情正在變好而:變好.身體也有自己的感受,它只承認當下的感受.畢竟冷確實不會因為你馬上就要回家就消失,不過我其實更願意在這片冰冷的地方多呆一會…&lt;/p&gt;
-&lt;p&gt;再過兩天就回去了,現在還沒起程,我要帶的東西真的很少,電腦,電腦配套鍵盤鼠標,手機,充電器,耳機.現在的青年貌似就這幾樣東西不會離身了這里就不想深入了.&lt;/p&gt;
-&lt;p&gt;對對對.我想到一件事.上一年,回家過年,我途徑服務區,有沙縣炒面10塊錢無限續杯,草尼瑪吃了沒三分之一吃口區了,不過好像是20吧?人在移動中的時候,真正需要的東西很少,但對“不合適的刺激”會異常敏感.冷.油膩.嘈雜.過量,都會被放大.我吃了三分之一實在塞不下去了,做了足足十分鐘的心理準備才付錢走人…&lt;/p&gt;
-&lt;h2 id=&quot;18-15&quot; tabindex=&quot;-1&quot;&gt;18:15 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-05/#18-15&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;其實我覺得,也聽過,人一直恐懼的不是死亡本身,而是恐懼思考死亡這件事的過程.因為你還沒有做過許多事情來消解死亡帶來的終極性.依舊是我說的,我們恐懼的是思考死亡的過程.實際上似乎並不用恐懼?畢竟這件事是需要你用人生時間沈澱的.你會與死亡慢慢&amp;quot;和解&amp;quot;吧,hhh&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://example.com/blog/Fragments/2026-02-05-DeathAndReconciliation&quot;&gt;跳轉到札记/博客[點這裏!]&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;19-16&quot; tabindex=&quot;-1&quot;&gt;19:16 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-05/#19-16&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;雖然確實 &lt;code&gt;obsidian&lt;/code&gt; 的反向鏈接非常好用,但這是獨有語法.爲了遷移性我還是盡量別用吧&lt;/p&gt;
-&lt;h2 id=&quot;21-39&quot; tabindex=&quot;-1&quot;&gt;21:39 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-05/#21-39&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;指尖一股清新的橘子皮味道.吃了一堆沙糖桔.这边转载一幅我原来关于橘子的作品.&lt;br&gt;
-&lt;a href=&quot;https://example.com/blog/Logs/2026-02-05-Where-the-Juice-Begins-to-Rot/&quot;&gt;跳轉到&amp;quot;桔子是如何腐爛的?&amp;quot;[點這裏!]&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>橘子是什么时候开始腐烂的?</title>
-    <link href="https://example.com/blog/Logs/2026-02-05-Where-the-Juice-Begins-to-Rot/" />
-    <updated>2026-02-05T00:00:00Z</updated>
-    <id>https://example.com/blog/Logs/2026-02-05-Where-the-Juice-Begins-to-Rot/</id>
-    <content type="html">&lt;h1 id=&quot;date-2025&quot; tabindex=&quot;-1&quot;&gt;date:2025 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-05-Where-the-Juice-Begins-to-Rot/#date-2025&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;你知不知道,对于人的感官体验而言,橘子是一种在腐烂与新鲜基本没有中间状态的水果,表皮看起来还完好,里面可能已经塌陷出一片苦水——表面上完美无缺,内部可能早就发酸.&lt;/p&gt;
-&lt;p&gt;我吃橘子的时候,总是喜欢下意识检查橘子坏没坏,小心翼翼地确认&amp;quot;甜&amp;quot;还存在.但是每当我检查到某处地方有细微的酸臭,那我就不得不将它整个丢掉了&lt;/p&gt;
-&lt;p&gt;难怪加缪会喜欢太阳、夏天、果实——那都是会坏的东西,正因为知道它们会坏,新鲜的时间很短很短,所以才更期待成熟的那一刻,那代表着生命最耀眼的时刻&lt;/p&gt;
-&lt;p&gt;不知道你喜欢怎么样吃橘子,是一瓣一瓣掰开,还是像我一样一口全部吞下去;), (实际上会掰一半再一口闷,毕竟嘴没那么大…),不过趁现在还新鲜,赶紧吃掉好了…&lt;/p&gt;
-&lt;p&gt;后记(11-14 22:23):&lt;/p&gt;
-&lt;p&gt;结果,一整袋橘子全都丢掉了.原本还想着慢慢吃,慢慢享受,可是其中一颗已经变成了巨人观的尸体——白色的霉菌覆盖在油黏的皮肤上,高度腐败后烂肉与果蛆充盈了整个橘子…橘子的腐败没有任何征兆,一旦发现一点酸臭,剩下的我也不敢再安心吃进嘴里了,有时候能想到那种一瓣一瓣吃的人是什么心理,那样就能在吃的时候及时发现坏掉的那部分…&lt;/p&gt;
-&lt;p&gt;这些无辜的橘子,也就这样一起被送进了垃圾桶,可惜了…也无奈.&lt;/p&gt;
-&lt;p&gt;如果还有没吃完的橘子,剩下的橘子还是得赶紧吃掉……享受它们还没有被时间偷走的甜.&lt;/p&gt;
-&lt;p&gt;ps: 明明才过了半天阿…&lt;/p&gt;
 </content>
   </entry>
 </feed>
