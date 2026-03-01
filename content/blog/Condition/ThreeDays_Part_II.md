@@ -2,7 +2,7 @@
 title: ThreeDays Part II
 author: Hatsumi
 date: 2026-03-01
-description: THE PREMATURE BURIAL 
+description: THE PREMATURE BURIAL
 tags:
   - Novels
 ---
