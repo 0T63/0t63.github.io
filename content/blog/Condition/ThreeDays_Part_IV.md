@@ -1,0 +1,49 @@
+---
+title: ThreeDays Part IV
+author: Hatsumi
+date: 2026-03-01
+description: Final
+tags:
+  - Novels
+---
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26875206&auto=1&height=66"></iframe>
+BGM: La cathedrale engloutie
+
+LAST 15 MINUTES
+
+"我们是因恐惧在一起的吗"
+
+凛没有选择回答.只是握住了紬的手,很冷,凛握住了,很用力
+
+海风轻微的吹拂在脸上
+
+"我不清楚在一开始是不是"
+
+他说
+
+"但至少现在不是"
+
+紬没有回答.只是向凛身边靠了靠
+
+时间没有暂停
+
+潮水涨退
+
+月亮垂下.
+
+"冷吗"凛问
+
+"还有点"紬摇了摇头"至少你终于不在站在旁边了"
+
+紬没有再谈未来了
+.也没有再谈结果.只是这么坐着
+
+"月亮好近,一起去月球吗?"
+
+"嗯,一起去"
+
+他们的影子亲密的依偎在一起.
+
+
+ThreeDays END
