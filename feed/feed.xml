@@ -12,9 +12,9 @@
   </author>
   <entry>
     <title>ThreeDays Part IV</title>
-    <link href="https://example.com/blog/Condition/ThreeDays_Part_IV/" />
+    <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_IV/" />
     <updated>2026-03-01T00:00:00Z</updated>
-    <id>https://example.com/blog/Condition/ThreeDays_Part_IV/</id>
+    <id>https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_IV/</id>
     <content type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;298&quot; height=&quot;52&quot; src=&quot;https://music.163.com/outchain/player?type=2&amp;id=2019374048&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;
 BGM: Gymnopédie No.1
 &lt;p&gt;LAST 15 MINUTES&lt;/p&gt;
@@ -25,6 +25,8 @@ BGM: Gymnopédie No.1
 &lt;p&gt;他说&lt;/p&gt;
 &lt;p&gt;“但至少现在不是”&lt;/p&gt;
 &lt;p&gt;紬没有回答.只是向凛身边靠了靠&lt;/p&gt;
+&lt;p&gt;“我不是要你陪我玩”&lt;br&gt;
+“我是想知道你到底有没有想留下来”&lt;/p&gt;
 &lt;p&gt;时间没有暂停&lt;/p&gt;
 &lt;p&gt;潮水涨退&lt;/p&gt;
 &lt;p&gt;月亮垂下.&lt;/p&gt;
@@ -39,9 +41,9 @@ BGM: Gymnopédie No.1
   </entry>
   <entry>
     <title>ThreeDays Part III</title>
-    <link href="https://example.com/blog/Condition/ThreeDays_Part_III/" />
+    <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_III/" />
     <updated>2026-03-01T00:00:00Z</updated>
-    <id>https://example.com/blog/Condition/ThreeDays_Part_III/</id>
+    <id>https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_III/</id>
     <content type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;298&quot; height=&quot;52&quot; src=&quot;https://music.163.com/outchain/player?type=2&amp;id=26875206&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;
 BGM: La Cathedrale engloutie
 &lt;p&gt;7:00 AM,凛照常醒了过来,睁开眼,冷白的房顶让他感到陌生.他拿起了手机.没有消息.&amp;quot;醒了吗?&amp;quot;紬没有回复.凛感到奇怪,他在担心紬的状况.起身.凛透过窗户的缝隙直接看到了月亮.比昨天大,但凛并没有过多在意.&lt;/p&gt;
@@ -63,9 +65,9 @@ BGM: La Cathedrale engloutie
   </entry>
   <entry>
     <title>ThreeDays Part II</title>
-    <link href="https://example.com/blog/Condition/ThreeDays_Part_II/" />
+    <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_II/" />
     <updated>2026-03-01T00:00:00Z</updated>
-    <id>https://example.com/blog/Condition/ThreeDays_Part_II/</id>
+    <id>https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_II/</id>
     <content type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;298&quot; height=&quot;52&quot; src=&quot;https://music.163.com/outchain/player?type=2&amp;id=1829664993&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;
 BGM: Preludes / Book 2, L. 123: 5. Bruyeres
 &lt;p&gt;凛想抓住紬的手.但她的身体像灌了铅,凛看着紬先他一步走向了黑暗.随后凛晕了过去.&lt;/p&gt;
@@ -101,10 +103,19 @@ BGM: Preludes / Book 2, L. 123: 5. Bruyeres
 </content>
   </entry>
   <entry>
+    <title>ThreeDays Afterword</title>
+    <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Afterword/" />
+    <updated>2026-03-01T00:00:00Z</updated>
+    <id>https://example.com/blog/Condition/ThreeDays/ThreeDays_Afterword/</id>
+    <content type="html">&lt;p&gt;日后记: 这是个很短很短的不算是小说的小说吧,内容基本都是我直接想出来的.虽然再写之前确实写了大纲,不过其实也不象是大纲,只是说是各种IF线的思考.实际上,能写出来我就已经觉得很不错了.脑子里面如果一直积压着那种想法,你或许会因想法而激动,却一直不付诸行动.停滞不前.我之前是不是讨论过?obsidian的链接还真是好用,不过标准md也能做到,为了迁移性还是尽量少用吧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://example.com/blog/Logs/2026-01-29.md&quot;&gt;博客 2026-01-29: &amp;quot;不過也是時候給自己澆一盆冷水,如果一个人永远在兴奋里,那多半是没落地.如果一个人从不兴奋,那多半是只在重复.別到時候喧賓奪主一味的追求這種刺激感,純粹的空想,到最後一事無成&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>ThreeDays Part I</title>
-    <link href="https://example.com/blog/Condition/ThreeDays_Part_I/" />
+    <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_I/" />
     <updated>2026-02-28T00:00:00Z</updated>
-    <id>https://example.com/blog/Condition/ThreeDays_Part_I/</id>
+    <id>https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_I/</id>
     <content type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;298&quot; height=&quot;52&quot; src=&quot;https://music.163.com/outchain/player?type=2&amp;id=565816936&amp;auto=1&amp;height=32&quot;&gt;&lt;/iframe&gt;
 BGM: Suite bergamasque, CD 82: III. Clair de lune - Recorded 2018
 &lt;ul&gt;
@@ -205,16 +216,6 @@ Le Mythe de Sisyphe
 &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;https://music.163.com/outchain/player?type=2&amp;id=1343491963&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt;
 &lt;h2 id=&quot;07-57&quot; tabindex=&quot;-1&quot;&gt;07:57 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-14/#07-57&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;morning.通宵這塊…不過畢竟是昨天晚上才醒,人的欲望感覺還真是永無止儘.就説説.話説,我就説爲什麽沒有年味嘛,誰傢過年只有自己一個過呢?hh.隨便講講,別當真,有時候真羡慕別人,有時候想了想別人可能也羡慕我?或者説只是羡慕我這種類型的人吧.獨居,離異,腦子裏有點問題,技術宅.真的是很適合被浪漫化…只有當你真的變成這樣才知道有多不好受.不過算了.偶爾用薄膜鍵盤其實還挺好用,想了想,我有什麽資格叫苦呢?沒有吧.大概吧…感覺就像圍城.外面的人想進去,裏面的人想出來.這知道呢?沒人知道,生活還是要繼續&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>日志 2026-02-11</title>
-    <link href="https://example.com/blog/Logs/2026-02-11/" />
-    <updated>2026-02-11T00:00:00Z</updated>
-    <id>https://example.com/blog/Logs/2026-02-11/</id>
-    <content type="html">&lt;h2 id=&quot;15-51&quot; tabindex=&quot;-1&quot;&gt;15:51 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/Logs/2026-02-11/#15-51&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;wdf…这里真的是地狱…原来没有网络是真的会私人de…打字只能用薄膜键盘也超级難受…最重要的是藥還忘帶了.現在説是説是控制自己的情緒了mad,別緊張,別緊張,平常就挺好的.只不過是藥忘帶了危機感而已并不是真的發生了…不想跟家裏人說a.一兩個星期停藥應該沒事,只要我控制好自己的情緒,別再出事.不過其實挺愜意的現在.趕集挺好玩de.就是環境確實很&amp;quot;農村&amp;quot;…&lt;br&gt;
-受不了,還是把鍵盤拿出來吧,擺在薄膜鍵盤上面問題應該不大.不想壓著筆記本的鍵盤.最近幾天太愜意&lt;s&gt;太無聊&lt;/s&gt;了主要是,而且網絡環境也很差.甚至我都不知道博客能不能push的出去.&lt;/p&gt;
 </content>
   </entry>
 </feed>
