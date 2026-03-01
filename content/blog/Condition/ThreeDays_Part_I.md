@@ -7,11 +7,11 @@ tags:
   - Novels
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1973265125&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=565816936&auto=1&height=32"></iframe>
 BGM: Suite bergamasque, CD 82: III. Clair de lune - Recorded 2018
 
 - 如果有明天,我们就去海边吧,我喜欢那细软的沙子
-- 嗯,如果有明天的话
+- 嗯,如果有明天的 话
 - 如果有明天,我们就去游乐园吧,好想坐一次旋转木马呢  
 - 嗯,如果有明天的话
 - 如果有明天,我们就去音乐广场吧,一起在阳光下跳一支圆舞曲,  

@@ -4,11 +4,11 @@ author: Hatsumi
 date: 2026-03-01
 description: Novels
 tags:
-  - Novels
+  - logs
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26875206&auto=1&height=66"></iframe>
-BGM: La cathedrale engloutie
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=26875206&auto=1&height=32"></iframe>
+BGM: La Cathedrale engloutie
 
 7:00 AM,凛照常醒了过来,睁开眼,冷白的房顶让他感到陌生.他拿起了手机.没有消息."醒了吗?"紬没有回复.凛感到奇怪,他在担心紬的状况.起身.凛透过窗户的缝隙直接看到了月亮.比昨天大,但凛并没有过多在意.
 
