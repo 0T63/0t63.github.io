@@ -5,6 +5,7 @@ date: 2026-03-01
 description: Final
 tags:
   - Novels
+  - ThreeDays
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=2019374048&auto=1&height=32"></iframe>
@@ -26,6 +27,9 @@ LAST 15 MINUTES
 
 紬没有回答.只是向凛身边靠了靠
 
+"我不是要你陪我玩"
+"我是想知道你到底有没有想留下来"
+
 时间没有暂停
 
 潮水涨退
@@ -46,3 +50,4 @@ LAST 15 MINUTES
 
 
 ThreeDays END
+

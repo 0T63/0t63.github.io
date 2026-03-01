@@ -2,9 +2,10 @@
 title: ThreeDays Part III
 author: Hatsumi
 date: 2026-03-01
-description: Novels
+description: The Temple
 tags:
-  - logs
+  - Novels
+  - ThreeDays
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=26875206&auto=1&height=32"></iframe>
