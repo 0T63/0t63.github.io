@@ -11,6 +11,15 @@
     <name>Your Name</name>
   </author>
   <entry>
+    <title>ThreeDays Afterword</title>
+    <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_V_Afterword/" />
+    <updated>2026-03-01T00:00:00Z</updated>
+    <id>https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_V_Afterword/</id>
+    <content type="html">&lt;p&gt;日后记: 这是个很短很短的不算是小说的小说吧,内容基本都是我直接想出来的.虽然再写之前确实写了大纲,不过其实也不象是大纲,只是说是各种IF线的思考.实际上,能写出来我就已经觉得很不错了.脑子里面如果一直积压着那种想法,你或许会因想法而激动,却一直不付诸行动.停滞不前.我之前是不是讨论过?obsidian的链接还真是好用,不过标准md也能做到,为了迁移性还是尽量少用吧&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://example.com/blog/Condition/ThreeDays/Logs/2026-01-29)&quot;&gt;博客 2026-01-29&lt;/a&gt;: 不過也是時候給自己澆一盆冷水,如果一个人永远在兴奋里,那多半是没落地.如果一个人从不兴奋,那多半是只在重复.別到時候喧賓奪主一味的追求這種刺激感,純粹的空想,到最後一事無成&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>ThreeDays Part IV</title>
     <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Part_IV/" />
     <updated>2026-03-01T00:00:00Z</updated>
@@ -100,15 +109,6 @@ BGM: Preludes / Book 2, L. 123: 5. Bruyeres
 &lt;p&gt;月亮越来越高,越来越明亮.这是午夜的标志.&amp;quot;时候不早了,我们回去吧&amp;quot;紬打破了沉默.她没有等凛的回答紬起身时.一张纸从口袋里飘了出来,风没有将它吹走,凛也没有立刻将它捡起来.凛愣在秋千上.等他回过神.紬已经走远.凛抬头,月亮已经在正中间.他们的影子已不在相交.&lt;/p&gt;
 &lt;p&gt;凛盯着纸看了几秒.那是紬的遗愿清单.它躺在路灯的光圈里.纸很皱.上面没有清单,只有一个歪歪扭扭的月亮,两个火柴人.一个看不出是什么的猫,写到一半有涂掉.&amp;quot;去海边涂了浪花,最后一整张纸都是线条有一行被划掉的字勉勉强强能看出是 “不要一个人死掉”.&lt;/p&gt;
 &lt;p&gt;Part II END&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>ThreeDays Afterword</title>
-    <link href="https://example.com/blog/Condition/ThreeDays/ThreeDays_Afterword/" />
-    <updated>2026-03-01T00:00:00Z</updated>
-    <id>https://example.com/blog/Condition/ThreeDays/ThreeDays_Afterword/</id>
-    <content type="html">&lt;p&gt;日后记: 这是个很短很短的不算是小说的小说吧,内容基本都是我直接想出来的.虽然再写之前确实写了大纲,不过其实也不象是大纲,只是说是各种IF线的思考.实际上,能写出来我就已经觉得很不错了.脑子里面如果一直积压着那种想法,你或许会因想法而激动,却一直不付诸行动.停滞不前.我之前是不是讨论过?obsidian的链接还真是好用,不过标准md也能做到,为了迁移性还是尽量少用吧&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://example.com/blog/Logs/2026-01-29.md&quot;&gt;博客 2026-01-29: &amp;quot;不過也是時候給自己澆一盆冷水,如果一个人永远在兴奋里,那多半是没落地.如果一个人从不兴奋,那多半是只在重复.別到時候喧賓奪主一味的追求這種刺激感,純粹的空想,到最後一事無成&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
