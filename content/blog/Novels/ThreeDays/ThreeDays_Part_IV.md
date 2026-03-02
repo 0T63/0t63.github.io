@@ -11,9 +11,9 @@ tags:
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=2019374048&auto=1&height=32"></iframe>
 BGM: Gymnopédie No.1
 
-LAST 15 MINUTES
+FIFTEEN MINUTES BEFOR THE END
 
-"我们是因恐惧在一起的吗"
+「"我们是因恐惧在一起的吗"」
 
 凛没有选择回答.只是握住了紬的手,很冷,凛很用力
 
