@@ -2,7 +2,7 @@
 title: ThreeDays Part III
 author: Hatsumi
 date: 2026-03-01
-description: The Temple
+description: The Fall of the House of Usher
 tags:
   - Novels
   - ThreeDays

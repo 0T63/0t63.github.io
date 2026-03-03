@@ -2,7 +2,7 @@
 title: ThreeDays Part IV
 author: Hatsumi
 date: 2026-03-01
-description: Final
+description: The Raven
 tags:
   - Novels
   - ThreeDays

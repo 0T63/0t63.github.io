@@ -2,7 +2,7 @@
 title: ThreeDays Part I
 author: Hatsumi
 date: 2026-02-28
-description: Far
+description: The Masque of the Red Death
 tags:
   - Novels
   - ThreeDays
