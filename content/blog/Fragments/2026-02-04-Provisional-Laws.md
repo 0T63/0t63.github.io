@@ -5,7 +5,7 @@ date: 2026-02-04
 # updated:
 description: 論清醒之責 | On Being Responsible for Awareness
 tags:
-  - Fragments
+    - Fragments
 ---
 
 <!--

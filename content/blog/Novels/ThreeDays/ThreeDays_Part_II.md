@@ -4,14 +4,12 @@ author: Hatsumi
 date: 2026-03-01
 description: THE PREMATURE BURIAL
 tags:
-  - Novels
-  - ThreeDays
+    - Novels
+    - ThreeDays
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1829664993&auto=1&height=32"></iframe>
 BGM: Preludes / Book 2, L. 123: 5. Bruyeres
-
-
 
 凛大口喘着粗气.从粘腻的床上醒了过来.
 
@@ -25,7 +23,7 @@ BGM: Preludes / Book 2, L. 123: 5. Bruyeres
 
 "15:40"
 
-紬 8:00 
+紬 8:00
 "喂,凛你怎么还没到?"
 
 紬 8:05

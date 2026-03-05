@@ -4,20 +4,20 @@ author: Hatsumi
 date: 2026-02-28
 description: The Masque of the Red Death
 tags:
-  - Novels
-  - ThreeDays
+    - Novels
+    - ThreeDays
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=565816936&auto=1&height=32"></iframe>
 BGM: Suite bergamasque, CD 82: III. Clair de lune - Recorded 2018
 
- 如果有明天,我们就去海边吧,我喜欢那细软的沙子
- 嗯,如果有明天的话
- 如果有明天,我们就去游乐园吧,好想坐一次旋转木马呢
- 嗯,如果有明天的话
- 如果有明天,我们就去音乐广场吧,一起在阳光下跳一支圆舞曲,
- 嗯,如果有明天的话
- 虽然在祈祷着,但是我知道和你的所有约定都无法实现,明天是一件无法祈求的奢侈品
+如果有明天,我们就去海边吧,我喜欢那细软的沙子
+嗯,如果有明天的话
+如果有明天,我们就去游乐园吧,好想坐一次旋转木马呢
+嗯,如果有明天的话
+如果有明天,我们就去音乐广场吧,一起在阳光下跳一支圆舞曲,
+嗯,如果有明天的话
+虽然在祈祷着,但是我知道和你的所有约定都无法实现,明天是一件无法祈求的奢侈品
 
 凛的心里,一直为某些事物感到忧郁.日复一日,年复一年.即使实际上并不会发生.月亮比平常的大,但只是新闻中的.也比平时的月亮更亮.不过只是天气好,看着就像是满月.凛在上学的路上思索着.
 

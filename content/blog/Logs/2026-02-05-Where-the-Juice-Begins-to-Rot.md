@@ -4,7 +4,7 @@ author: Hatsumi
 date: 2026-02-05
 description: Just someone's day
 tags:
-  - logs
+    - logs
 ---
 
 # date:2025
