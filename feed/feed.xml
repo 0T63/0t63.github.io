@@ -27,8 +27,16 @@
 		position: absolute;
 		right: 100px;
 	}
+	.heimu_absolute_top {
+		position: absolute;
+		top: 100px;
+	}
+	.heimu_absolute_bottom {
+		position: absolute;
+		bottom: 100px;
+	}
 	.heimu {
-		color: white;
+		color: transparent;
 	}
 	.heimu:hover {
 		color: black;
@@ -60,6 +68,10 @@
 	辜负所有人只想着自己 懦弱一事无成 什么都做不到只会说对不起的其实是我啊
 &lt;/p&gt;
 &lt;p class=&quot;heimu heimu_absolute_right&quot;&gt;5Y+q5piv5oiR5byA5aeL5Zue6YG/&lt;/p&gt;
+&lt;p class=&quot;heimu heimu_absolute_top&quot;&gt;我或许应该死在那个暑假,而不是苟活到现在&lt;/p&gt;
+&lt;p class=&quot;heimu heimu_absolute_bottom&quot;&gt;
+	我觉得每个人做的任何动作都对我有敌意.我处在我自身的框架,规则与规训里.反向的他人即地狱.我现在已经把一段模糊关系解释成敌意了,我不想那么想,但是我停不下来.我停不下来.我我的脑子里面全是证明那个想法的事
+&lt;/p&gt;
 </content>
   </entry>
   <entry>
