@@ -14,6 +14,8 @@ tags:
 	.heimu_absolute_left {
 		position: absolute;
 		left: 100px;
+		display: inline-block;
+		width: 300px;
 	}
 	.heimu_absolute_right {
 		position: absolute;
@@ -21,14 +23,17 @@ tags:
 	}
 	.heimu_absolute_top {
 		position: absolute;
-		top: 100px;
+		top: 1000px;
 	}
 	.heimu_absolute_bottom {
+		display: inline-block;
+		width: 100px;
 		position: absolute;
 		bottom: 100px;
 	}
 	.heimu {
 		color: transparent;
+		outline: 1px black solid;
 	}
 	.heimu:hover {
 		color: black;
